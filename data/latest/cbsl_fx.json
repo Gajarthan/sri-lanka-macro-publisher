@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-03-29T09:24:21.803585+00:00",
+  "collected_at": "2026-03-29T10:29:05.987566+00:00",
   "family_code": "cbsl_fx",
   "family_name": "CBSL exchange rates",
   "metadata": {
@@ -10,7 +10,7 @@
   "records": [
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_spot",
@@ -30,7 +30,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_spot",
@@ -50,7 +50,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_spot",
@@ -70,7 +70,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_spot",
@@ -90,7 +90,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_spot",
@@ -110,7 +110,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_spot",
@@ -130,7 +130,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_spot",
@@ -150,7 +150,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_spot",
@@ -170,7 +170,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_spot",
@@ -190,7 +190,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_spot",
@@ -210,7 +210,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_indicative",
@@ -230,7 +230,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_indicative",
@@ -250,7 +250,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_indicative",
@@ -270,7 +270,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_indicative",
@@ -290,7 +290,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_indicative",
@@ -310,7 +310,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_indicative",
@@ -330,7 +330,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_indicative",
@@ -350,7 +350,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_indicative",
@@ -370,7 +370,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_indicative",
@@ -390,7 +390,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_indicative",
@@ -410,7 +410,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_indicative",
@@ -430,7 +430,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_indicative",
@@ -450,7 +450,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_indicative",
@@ -470,7 +470,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_indicative",
@@ -490,7 +490,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_indicative",
@@ -510,7 +510,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_indicative",
@@ -530,7 +530,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_indicative",
@@ -550,7 +550,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_indicative",
@@ -570,7 +570,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_indicative",
@@ -590,7 +590,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_indicative",
@@ -610,7 +610,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_indicative",
@@ -630,7 +630,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_indicative",
@@ -650,7 +650,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_indicative",
@@ -670,7 +670,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_indicative",
@@ -690,7 +690,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_indicative",
@@ -710,7 +710,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_indicative",
@@ -730,7 +730,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_indicative",
@@ -750,7 +750,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_indicative",
@@ -770,7 +770,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_indicative",
@@ -790,7 +790,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_indicative",
@@ -810,7 +810,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_indicative",
@@ -830,7 +830,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_indicative",
@@ -850,7 +850,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_indicative",
@@ -870,7 +870,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_indicative",
@@ -890,7 +890,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_indicative",
@@ -910,7 +910,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_indicative",
@@ -930,7 +930,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_indicative",
@@ -950,7 +950,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_indicative",
@@ -970,7 +970,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_indicative",
@@ -990,7 +990,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_indicative",
@@ -1010,7 +1010,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_indicative",
@@ -1030,7 +1030,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_indicative",
@@ -1050,7 +1050,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_indicative",
@@ -1070,7 +1070,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_indicative",
@@ -1090,7 +1090,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_indicative",
@@ -1110,7 +1110,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_indicative",
@@ -1130,7 +1130,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_indicative",
@@ -1150,7 +1150,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_indicative",
@@ -1170,7 +1170,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_indicative",
@@ -1190,7 +1190,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_indicative",
@@ -1210,7 +1210,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_indicative",
@@ -1230,7 +1230,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_indicative",
@@ -1250,7 +1250,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_indicative",
@@ -1270,7 +1270,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_indicative",
@@ -1290,7 +1290,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_indicative",
@@ -1310,7 +1310,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_indicative",
@@ -1330,7 +1330,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_indicative",
@@ -1350,7 +1350,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_indicative",
@@ -1370,7 +1370,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_indicative",
@@ -1390,7 +1390,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_indicative",
@@ -1410,7 +1410,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_tt_buy",
@@ -1429,7 +1429,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_tt_sell",
@@ -1448,7 +1448,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_tt_buy",
@@ -1467,7 +1467,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_tt_sell",
@@ -1486,7 +1486,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_tt_buy",
@@ -1505,7 +1505,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_tt_sell",
@@ -1524,7 +1524,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_tt_buy",
@@ -1543,7 +1543,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_tt_sell",
@@ -1562,7 +1562,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_tt_buy",
@@ -1581,7 +1581,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_tt_sell",
@@ -1600,7 +1600,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_tt_buy",
@@ -1619,7 +1619,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_tt_sell",
@@ -1638,7 +1638,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_tt_buy",
@@ -1657,7 +1657,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_tt_sell",
@@ -1676,7 +1676,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_tt_buy",
@@ -1695,7 +1695,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_tt_sell",
@@ -1714,7 +1714,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_tt_buy",
@@ -1733,7 +1733,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_tt_sell",
@@ -1752,7 +1752,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_tt_buy",
@@ -1771,7 +1771,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "USD",
       "frequency": "business_daily",
       "indicator_code": "usd_lkr_tt_sell",
@@ -1790,7 +1790,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_tt_buy",
@@ -1809,7 +1809,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_tt_sell",
@@ -1828,7 +1828,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_tt_buy",
@@ -1847,7 +1847,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_tt_sell",
@@ -1866,7 +1866,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_tt_buy",
@@ -1885,7 +1885,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_tt_sell",
@@ -1904,7 +1904,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_tt_buy",
@@ -1923,7 +1923,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_tt_sell",
@@ -1942,7 +1942,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_tt_buy",
@@ -1961,7 +1961,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_tt_sell",
@@ -1980,7 +1980,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_tt_buy",
@@ -1999,7 +1999,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_tt_sell",
@@ -2018,7 +2018,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_tt_buy",
@@ -2037,7 +2037,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_tt_sell",
@@ -2056,7 +2056,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_tt_buy",
@@ -2075,7 +2075,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_tt_sell",
@@ -2094,7 +2094,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_tt_buy",
@@ -2113,7 +2113,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_tt_sell",
@@ -2132,7 +2132,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_tt_buy",
@@ -2151,7 +2151,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "EUR",
       "frequency": "business_daily",
       "indicator_code": "eur_lkr_tt_sell",
@@ -2170,7 +2170,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_tt_buy",
@@ -2189,7 +2189,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_tt_sell",
@@ -2208,7 +2208,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_tt_buy",
@@ -2227,7 +2227,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_tt_sell",
@@ -2246,7 +2246,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_tt_buy",
@@ -2265,7 +2265,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_tt_sell",
@@ -2284,7 +2284,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_tt_buy",
@@ -2303,7 +2303,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_tt_sell",
@@ -2322,7 +2322,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_tt_buy",
@@ -2341,7 +2341,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_tt_sell",
@@ -2360,7 +2360,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_tt_buy",
@@ -2379,7 +2379,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_tt_sell",
@@ -2398,7 +2398,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_tt_buy",
@@ -2417,7 +2417,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_tt_sell",
@@ -2436,7 +2436,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_tt_buy",
@@ -2455,7 +2455,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_tt_sell",
@@ -2474,7 +2474,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_tt_buy",
@@ -2493,7 +2493,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_tt_sell",
@@ -2512,7 +2512,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_tt_buy",
@@ -2531,7 +2531,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "GBP",
       "frequency": "business_daily",
       "indicator_code": "gbp_lkr_tt_sell",
@@ -2550,7 +2550,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_tt_buy",
@@ -2569,7 +2569,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_tt_sell",
@@ -2588,7 +2588,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_tt_buy",
@@ -2607,7 +2607,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_tt_sell",
@@ -2626,7 +2626,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_tt_buy",
@@ -2645,7 +2645,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_tt_sell",
@@ -2664,7 +2664,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_tt_buy",
@@ -2683,7 +2683,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_tt_sell",
@@ -2702,7 +2702,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_tt_buy",
@@ -2721,7 +2721,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_tt_sell",
@@ -2740,7 +2740,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_tt_buy",
@@ -2759,7 +2759,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_tt_sell",
@@ -2778,7 +2778,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_tt_buy",
@@ -2797,7 +2797,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_tt_sell",
@@ -2816,7 +2816,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_tt_buy",
@@ -2835,7 +2835,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_tt_sell",
@@ -2854,7 +2854,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_tt_buy",
@@ -2873,7 +2873,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_tt_sell",
@@ -2892,7 +2892,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_tt_buy",
@@ -2911,7 +2911,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "JPY",
       "frequency": "business_daily",
       "indicator_code": "jpy_lkr_tt_sell",
@@ -2930,7 +2930,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_tt_buy",
@@ -2949,7 +2949,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_tt_sell",
@@ -2968,7 +2968,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_tt_buy",
@@ -2987,7 +2987,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_tt_sell",
@@ -3006,7 +3006,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_tt_buy",
@@ -3025,7 +3025,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_tt_sell",
@@ -3044,7 +3044,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_tt_buy",
@@ -3063,7 +3063,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_tt_sell",
@@ -3082,7 +3082,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_tt_buy",
@@ -3101,7 +3101,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_tt_sell",
@@ -3120,7 +3120,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_tt_buy",
@@ -3139,7 +3139,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_tt_sell",
@@ -3158,7 +3158,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_tt_buy",
@@ -3177,7 +3177,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_tt_sell",
@@ -3196,7 +3196,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_tt_buy",
@@ -3215,7 +3215,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_tt_sell",
@@ -3234,7 +3234,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_tt_buy",
@@ -3253,7 +3253,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_tt_sell",
@@ -3272,7 +3272,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_tt_buy",
@@ -3291,7 +3291,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "CNY",
       "frequency": "business_daily",
       "indicator_code": "cny_lkr_tt_sell",
@@ -3310,7 +3310,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_tt_buy",
@@ -3329,7 +3329,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_tt_sell",
@@ -3348,7 +3348,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_tt_buy",
@@ -3367,7 +3367,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_tt_sell",
@@ -3386,7 +3386,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_tt_buy",
@@ -3405,7 +3405,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_tt_sell",
@@ -3424,7 +3424,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_tt_buy",
@@ -3443,7 +3443,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_tt_sell",
@@ -3462,7 +3462,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_tt_buy",
@@ -3481,7 +3481,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_tt_sell",
@@ -3500,7 +3500,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_tt_buy",
@@ -3519,7 +3519,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_tt_sell",
@@ -3538,7 +3538,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_tt_buy",
@@ -3557,7 +3557,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_tt_sell",
@@ -3576,7 +3576,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_tt_buy",
@@ -3595,7 +3595,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_tt_sell",
@@ -3614,7 +3614,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_tt_buy",
@@ -3633,7 +3633,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_tt_sell",
@@ -3652,7 +3652,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_tt_buy",
@@ -3671,7 +3671,7 @@
     },
     {
       "category": "exchange_rate",
-      "collected_at": "2026-03-29T09:24:21.803585Z",
+      "collected_at": "2026-03-29T10:29:05.987566Z",
       "currency": "AUD",
       "frequency": "business_daily",
       "indicator_code": "aud_lkr_tt_sell",
