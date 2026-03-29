@@ -1,31 +1,31 @@
 {
   "sources": [
     {
-      "content_hash": "113d2a1d0f3defa99c7bf1e47c824ddfff67a91f78da75f000be62118ea51b3a",
+      "content_hash": "bb9027f57e3a8996eaec22dfd7a61a169da3e001578ee4e9d982646d93f937ac",
       "error": null,
-      "last_attempt_at": "2026-03-29T08:12:56.055573Z",
+      "last_attempt_at": "2026-03-29T09:24:21.645924Z",
       "last_reference_date": "2026-03-27",
-      "last_success_at": "2026-03-29T08:12:56.055573Z",
+      "last_success_at": "2026-03-29T09:24:21.645924Z",
       "ok": true,
       "record_count": 190,
       "source": "cbsl_fx"
     },
     {
-      "content_hash": "5a6b84ad754cc1294d41af5deda488afcd47696a4d04c2d5e6960a0ce8a7dd7b",
+      "content_hash": "88d9810a70267162f10cecf693d7bf612262d7370a1501001468bf7218038e61",
       "error": null,
-      "last_attempt_at": "2026-03-29T08:12:56.904414Z",
+      "last_attempt_at": "2026-03-29T09:24:24.016002Z",
       "last_reference_date": "2026-02-28",
-      "last_success_at": "2026-03-29T08:12:56.904414Z",
+      "last_success_at": "2026-03-29T09:24:24.016002Z",
       "ok": true,
       "record_count": 1,
       "source": "dcs_ccpi"
     },
     {
-      "content_hash": "3715dd7b8bc0da8aa0dc9ba67185779994a9177d680c6ea29f7b60de780439e3",
+      "content_hash": "41d30c29568a9f2b1c0a5685a01d6a52d41784827bc540afa7f9e06923cdbacd",
       "error": null,
-      "last_attempt_at": "2026-03-29T08:13:02.122704Z",
+      "last_attempt_at": "2026-03-29T09:24:31.399737Z",
       "last_reference_date": "2026-03-27",
-      "last_success_at": "2026-03-29T08:13:02.122704Z",
+      "last_success_at": "2026-03-29T09:24:31.399737Z",
       "ok": true,
       "record_count": 29724,
       "source": "doa_vegetable_prices"

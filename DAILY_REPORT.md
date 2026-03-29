@@ -1,6 +1,6 @@
 # Daily Report
 
-*Generated: 2026-03-29 09:22:20 UTC*
+*Generated: 2026-03-29 09:25:02 UTC*
 
 ## Current Totals
 
@@ -15,6 +15,14 @@
 | Timestamp | Sources OK | Total Records | CBSL FX | DCS CCPI | DOA |
 |-----------|------------|---------------|---------|----------|-----|
 | 2026-03-29 09:18:44 UTC | 3/3 | 29,915 | 190 | 1 | 29,724 |
+| 2026-03-29 09:25:00 UTC | 3/3 | 29,915 | 190 | 1 | 29,724 |
+
+## Day-over-Day Changes
+
+- Total records: +0
+- CBSL FX: +0
+- DCS CCPI: +0
+- DOA Vegetables: +0
 
 ## USD/LKR Spot Trend (Last 7 Days)
 
@@ -45,4 +53,4 @@
 
 ---
 
-*Report covers data through 2026-03-29 09:22:20 UTC*
+*Report covers data through 2026-03-29 09:25:02 UTC*

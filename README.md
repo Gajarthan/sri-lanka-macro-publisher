@@ -1,6 +1,6 @@
 # Sri Lanka Macro Publisher
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026-03-29_09%3A22%3A20_UTC-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026-03-29_09%3A25%3A02_UTC-green)
 ![Sources](https://img.shields.io/badge/sources-3_active-blue)
 ![Health](https://img.shields.io/badge/health-all_green-brightgreen)
 
@@ -18,7 +18,7 @@ Static-data publishing pipeline for official Sri Lankan macroeconomic datasets. 
 
 ## Latest Snapshot
 
-**Last updated:** 2026-03-29 09:22:20 UTC
+**Last updated:** 2026-03-29 09:25:02 UTC
 **Total records:** 29,915
 
 | Metric | Value | Reference Date |
@@ -84,9 +84,9 @@ Static-data publishing pipeline for official Sri Lankan macroeconomic datasets. 
 
 | Source | Status | Reference Date | Records | Last Success |
 |--------|--------|----------------|---------|--------------|
-| cbsl_fx | ok | 2026-03-27 | 190 | 2026-03-29 08:12 UTC |
-| dcs_ccpi | ok | 2026-02-28 | 1 | 2026-03-29 08:12 UTC |
-| doa_vegetable_prices | ok | 2026-03-27 | 29,724 | 2026-03-29 08:13 UTC |
+| cbsl_fx | ok | 2026-03-27 | 190 | 2026-03-29 09:24 UTC |
+| dcs_ccpi | ok | 2026-02-28 | 1 | 2026-03-29 09:24 UTC |
+| doa_vegetable_prices | ok | 2026-03-27 | 29,724 | 2026-03-29 09:24 UTC |
 
 ## Dashboard Details
 
