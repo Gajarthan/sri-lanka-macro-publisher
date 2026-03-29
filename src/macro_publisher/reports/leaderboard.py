@@ -8,6 +8,7 @@ from collections import defaultdict
 from pathlib import Path
 
 from macro_publisher.config import HISTORY_DIR, LATEST_DIR, REPO_ROOT, STATUS_PATH
+from macro_publisher.utils.archive import archive_output
 from macro_publisher.utils.dates import utc_now
 from macro_publisher.utils.fs import write_text
 
@@ -196,4 +197,5 @@ def generate_leaderboard(output: Path | None = None) -> Path:
 
     content = "\n".join(lines)
     write_text(output, content)
+    archive_output(output, category="reports", timestamp=now)
     return output

@@ -14,6 +14,7 @@ from macro_publisher.config import (
     STATUS_PATH,
 )
 from macro_publisher.reports.pipeline_history import read_history
+from macro_publisher.utils.archive import archive_output
 from macro_publisher.utils.dates import utc_now
 from macro_publisher.utils.fs import write_text
 
@@ -172,4 +173,5 @@ def generate_daily_report(output: Path | None = None) -> Path:
 
     content = "\n".join(lines)
     write_text(output, content)
+    archive_output(output, category="reports", timestamp=now)
     return output

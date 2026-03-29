@@ -6,6 +6,7 @@ import json
 from pathlib import Path
 
 from macro_publisher.models import SourceDataset
+from macro_publisher.utils.archive import archive_output
 from macro_publisher.utils.fs import write_json, write_text
 
 
@@ -25,6 +26,7 @@ def write_latest_dataset(dataset: SourceDataset, output_dir: Path) -> Path:
     }
     path = output_dir / f"{dataset.family_code}.json"
     write_json(path, payload)
+    archive_output(path, category="latest", timestamp=dataset.collected_at)
     return path
 
 
@@ -37,4 +39,5 @@ def write_normalized_snapshot(dataset: SourceDataset, output_dir: Path) -> Path:
         for record in dataset.records
     ]
     write_text(path, "\n".join(lines) + ("\n" if lines else ""))
+    archive_output(path, category="normalized", timestamp=dataset.collected_at)
     return path

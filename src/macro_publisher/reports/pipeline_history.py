@@ -7,6 +7,7 @@ from pathlib import Path
 
 from macro_publisher.config import PIPELINE_HISTORY_PATH, STATUS_PATH
 from macro_publisher.publish.status import read_statuses
+from macro_publisher.utils.archive import archive_output
 from macro_publisher.utils.dates import utc_now
 
 HISTORY_COLUMNS = [
@@ -63,6 +64,7 @@ def append_run(path: Path | None = None) -> Path:
         if not exists:
             writer.writeheader()
         writer.writerow(row)
+    archive_output(path, category="history", timestamp=now)
     return path
 
 

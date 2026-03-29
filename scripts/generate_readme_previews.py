@@ -9,9 +9,13 @@ from statistics import median
 
 from PIL import Image, ImageDraw, ImageFont
 
+from macro_publisher.utils.archive import archive_output
+from macro_publisher.utils.dates import utc_now
+
 REPO_ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = REPO_ROOT / "data"
 OUT_DIR = REPO_ROOT / "docs" / "readme-assets"
+RUN_AT = utc_now()
 
 WIDTH = 1440
 PANEL_PADDING = 36
@@ -65,6 +69,12 @@ FONT_SANS_MD = find_font(FONT_PATHS[2:], 18)
 FONT_SANS_SM = find_font(FONT_PATHS[2:], 15)
 FONT_SANS_XS = find_font(FONT_PATHS[2:], 13)
 FONT_SANS_LG = find_font(FONT_PATHS[2:], 34)
+
+
+def save_image(image: Image.Image, name: str) -> None:
+    path = OUT_DIR / name
+    image.save(path)
+    archive_output(path, category="charts", timestamp=RUN_AT)
 
 
 def read_csv_rows(path: Path) -> list[dict[str, str]]:
@@ -396,7 +406,7 @@ def build_overview() -> None:
         ["Source", "Status", "Reference date", "Records", "Last success"],
         rows,
     )
-    image.save(OUT_DIR / "overview-dashboard.png")
+    save_image(image, "overview-dashboard.png")
 
 
 def build_exchange_rates() -> None:
@@ -466,7 +476,7 @@ def build_exchange_rates() -> None:
         labels,
         " LKR",
     )
-    image.save(OUT_DIR / "exchange-rates-dashboard.png")
+    save_image(image, "exchange-rates-dashboard.png")
 
 
 def build_inflation() -> None:
@@ -515,7 +525,7 @@ def build_inflation() -> None:
         "are collected, the CCPI line chart grows automatically."
     )
     text(draw, (830, 570), note, FONT_SANS_SM, COLORS["muted"])
-    image.save(OUT_DIR / "inflation-dashboard.png")
+    save_image(image, "inflation-dashboard.png")
 
 
 def build_commodities() -> None:
@@ -612,7 +622,7 @@ def build_commodities() -> None:
         ["Series", "Latest value", "Daily move"],
         [list(row) for row in movers_sorted],
     )
-    image.save(OUT_DIR / "commodity-prices-dashboard.png")
+    save_image(image, "commodity-prices-dashboard.png")
 
 
 def main() -> None:

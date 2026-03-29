@@ -15,6 +15,7 @@ from macro_publisher.config import (
     REPO_ROOT,
     STATUS_PATH,
 )
+from macro_publisher.utils.archive import archive_output
 from macro_publisher.utils.dates import utc_now
 from macro_publisher.utils.fs import write_text
 
@@ -82,12 +83,36 @@ def generate_readme(output: Path | None = None) -> Path:
     w(f"![Health](https://img.shields.io/badge/health-{health_label}-{health_color})")
     w("")
 
-    # Dashboard previews
-    if README_ASSETS_DIR.exists():
-        w("## Dashboard Previews")
-        w("")
-        w("![Overview dashboard preview](docs/readme-assets/overview-dashboard.png)")
-        w("")
+    # Dashboard summary
+    w("## Dashboard Overview")
+    w("")
+    dashboard_rows = [
+        (
+            "Overview",
+            "Current pipeline state across all official sources",
+            "Health badges, latest snapshot, total records",
+        ),
+        (
+            "Exchange Rates",
+            "LKR performance across major currencies",
+            "USD/LKR spot, indicative rates, TT buy/sell spreads",
+        ),
+        (
+            "Inflation",
+            "Colombo consumer price trend",
+            "CCPI level, month-on-month, year-on-year, 12-month average",
+        ),
+        (
+            "Commodity Prices",
+            "Daily vegetable market movement",
+            "Pettah and Dambulla pricing, item heatmap, market comparison",
+        ),
+    ]
+    w("| View | Focus | Key Signals |")
+    w("|------|-------|-------------|")
+    for view, focus, signals in dashboard_rows:
+        w(f"| {view} | {focus} | {signals} |")
+    w("")
 
     # About section
     w("## About")
@@ -134,6 +159,39 @@ def generate_readme(output: Path | None = None) -> Path:
             w(f"| Year-on-Year | {meta['year_on_year_percent']}% |")
         if meta.get("twelve_month_moving_average_percent"):
             w(f"| 12-Month Moving Avg | {meta['twelve_month_moving_average_percent']}% |")
+        w("")
+
+    # Charts
+    charts_dir = README_ASSETS_DIR
+    if (charts_dir / "fx_trend.png").exists():
+        w("## Charts")
+        w("")
+        w("### Exchange Rate Trend")
+        w("")
+        w("![USD/LKR Trend](docs/readme-assets/fx_trend.png)")
+        w("")
+        w("### Multi-Currency Comparison")
+        w("")
+        w("![Multi-Currency](docs/readme-assets/multi_currency.png)")
+        w("")
+        w("### TT Buy/Sell Spreads")
+        w("")
+        w("![TT Spreads](docs/readme-assets/tt_spreads.png)")
+        w("")
+    if (charts_dir / "inflation_trend.png").exists():
+        w("### Inflation Trend")
+        w("")
+        w("![CCPI Trend](docs/readme-assets/inflation_trend.png)")
+        w("")
+    if (charts_dir / "vegetable_heatmap.png").exists():
+        w("### Vegetable Price Heatmap")
+        w("")
+        w("![Vegetable Heatmap](docs/readme-assets/vegetable_heatmap.png)")
+        w("")
+    if (charts_dir / "market_comparison.png").exists():
+        w("### Market Comparison")
+        w("")
+        w("![Market Comparison](docs/readme-assets/market_comparison.png)")
         w("")
 
     # Exchange rates table
@@ -226,25 +284,35 @@ def generate_readme(output: Path | None = None) -> Path:
         )
     w("")
 
-    # Dashboard images
-    if README_ASSETS_DIR.exists():
-        w("## Dashboard Details")
-        w("")
-        w("### Exchange Rates")
-        w("")
-        w("![Exchange rates dashboard preview](docs/readme-assets/exchange-rates-dashboard.png)")
-        w("")
-        w("### Inflation")
-        w("")
-        w("![Inflation dashboard preview](docs/readme-assets/inflation-dashboard.png)")
-        w("")
-        w("### Commodity Prices")
-        w("")
-        w(
-            "![Commodity prices dashboard preview]"
-            "(docs/readme-assets/commodity-prices-dashboard.png)"
-        )
-        w("")
+    # Dashboard details
+    w("## Dashboard Details")
+    w("")
+    detail_rows = [
+        (
+            "Exchange Rates",
+            "`data/history/usd_lkr_spot.csv`, `data/history/*_indicative.csv`, "
+            "`data/history/*_tt_*.csv`",
+            "Tracks spot direction, compares major currencies, and highlights "
+            "TT spread differences.",
+        ),
+        (
+            "Inflation",
+            "`data/history/ccpi_colombo.csv` and `data/latest/dcs_ccpi.json`",
+            "Summarizes the latest CCPI release with MoM, YoY, and moving-average context.",
+        ),
+        (
+            "Commodity Prices",
+            "`data/latest/doa_vegetable_prices.json`, "
+            "`data/history/doa_vegetable_prices_*.csv`",
+            "Shows latest market prices, daily movers, and market-to-market differences "
+            "for key vegetables.",
+        ),
+    ]
+    w("| Section | Source Files | Text Summary |")
+    w("|---------|--------------|--------------|")
+    for section, sources, summary in detail_rows:
+        w(f"| {section} | {sources} | {summary} |")
+    w("")
 
     # Data layout
     w("## Data Layout")
@@ -254,6 +322,8 @@ def generate_readme(output: Path | None = None) -> Path:
     w("  latest/        Latest snapshot per family (JSON)")
     w("  history/        History CSVs with stable column order")
     w("  normalized/     Canonical JSON Lines snapshots")
+    w("  archives/       Timestamped copies of generated data and assets")
+    w("  file_history.csv File-level archive manifest with timestamps and hashes")
     w("  status.json     Source health summary")
     w("```")
     w("")
@@ -275,4 +345,5 @@ def generate_readme(output: Path | None = None) -> Path:
 
     content = "\n".join(lines)
     write_text(output, content)
+    archive_output(output, category="reports", timestamp=now)
     return output

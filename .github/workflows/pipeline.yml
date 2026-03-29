@@ -55,6 +55,9 @@ jobs:
       - name: Regenerate README dashboard previews
         run: uv run python scripts/generate_readme_previews.py
 
+      - name: Generate matplotlib charts
+        run: uv run python scripts/generate_charts.py
+
       - name: Generate all reports
         run: uv run python -m macro_publisher.cli generate-all-reports
 

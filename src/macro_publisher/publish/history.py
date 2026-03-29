@@ -8,6 +8,7 @@ from collections import defaultdict
 from pathlib import Path
 
 from macro_publisher.models import CanonicalRecord
+from macro_publisher.utils.archive import archive_output
 
 HISTORY_COLUMNS = [
     "source",
@@ -55,6 +56,11 @@ def write_history(records: list[CanonicalRecord], output_dir: Path) -> list[Path
             writer = csv.DictWriter(handle, fieldnames=HISTORY_COLUMNS)
             writer.writeheader()
             writer.writerows(sorted_rows)
+        archive_output(
+            path,
+            category="history",
+            timestamp=max(record.collected_at for record in grouped_records),
+        )
         written_paths.append(path)
     return written_paths
 
