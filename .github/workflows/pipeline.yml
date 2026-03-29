@@ -1,0 +1,68 @@
+name: Publish Data
+
+on:
+  workflow_dispatch:
+    inputs:
+      source:
+        description: Optional source to run
+        required: false
+        default: all
+  schedule:
+    - cron: "0 */3 * * 1-5"
+    - cron: "15 1 * * *"
+    - cron: "30 2 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Sync dependencies
+        run: uv sync --all-extras --dev
+
+      - name: Run scheduled source
+        shell: bash
+        run: |
+          SOURCE_INPUT="${{ github.event.inputs.source || '' }}"
+          SCHEDULE="${{ github.event.schedule || '' }}"
+          if [[ "$SOURCE_INPUT" == "all" || -z "$SOURCE_INPUT" ]]; then
+            if [[ "$SCHEDULE" == "0 */3 * * 1-5" ]]; then
+              uv run python -m macro_publisher.cli run-source cbsl_fx
+            elif [[ "$SCHEDULE" == "15 1 * * *" ]]; then
+              uv run python -m macro_publisher.cli run-source doa_vegetable_prices
+            elif [[ "$SCHEDULE" == "30 2 * * *" ]]; then
+              uv run python -m macro_publisher.cli run-source dcs_ccpi
+            else
+              uv run python -m macro_publisher.cli run-all
+            fi
+          else
+            uv run python -m macro_publisher.cli run-source "$SOURCE_INPUT"
+          fi
+
+      - name: Commit and push changed data
+        shell: bash
+        run: |
+          if git diff --quiet -- data; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "chore: refresh published macro data
+
+          Co-authored-by: Codex <noreply@openai.com>"
+          git push

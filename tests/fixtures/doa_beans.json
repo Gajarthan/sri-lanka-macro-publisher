@@ -1,0 +1,28 @@
+[
+  {
+    "Date": "2026-03-26",
+    "Item": "Beans",
+    "Unit": "kg",
+    "Pettah_Yesterday_Wholesale": "310.000",
+    "Pettah_Today_Wholesale": "320.000",
+    "Dambulla_Yesterday_Wholesale": "280.000",
+    "Dambulla_Today_Wholesale": "290.000",
+    "Pettah_Yesterday_Retail": "340.000",
+    "Pettah_Today_Retail": "350.000",
+    "Dambulla_Yesterday_Retail": "300.000",
+    "Dambulla_Today_Retail": "315.000"
+  },
+  {
+    "Date": "2026-03-27",
+    "Item": "Beans",
+    "Unit": "kg",
+    "Pettah_Yesterday_Wholesale": "320.000",
+    "Pettah_Today_Wholesale": "330.000",
+    "Dambulla_Yesterday_Wholesale": "290.000",
+    "Dambulla_Today_Wholesale": "300.000",
+    "Pettah_Yesterday_Retail": "350.000",
+    "Pettah_Today_Retail": "360.000",
+    "Dambulla_Yesterday_Retail": "315.000",
+    "Dambulla_Today_Retail": "325.000"
+  }
+]

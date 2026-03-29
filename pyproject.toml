@@ -1,0 +1,69 @@
+[build-system]
+requires = ["hatchling>=1.27.0"]
+build-backend = "hatchling.build"
+
+[project]
+name = "sri-lanka-macro-publisher"
+version = "0.1.0"
+description = "Fetch, normalize, validate, store, and publish official Sri Lankan macroeconomic datasets as static JSON and CSV files."
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+authors = [
+  { name = "OpenAI Codex" },
+]
+keywords = ["sri-lanka", "macroeconomics", "cbsl", "dcs", "agriculture", "open-data"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Developers",
+  "Intended Audience :: Financial and Insurance Industry",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.12",
+  "Topic :: Office/Business :: Financial",
+]
+dependencies = [
+  "beautifulsoup4>=4.12.3",
+  "httpx>=0.28.1",
+  "lxml>=5.4.0",
+  "pydantic>=2.11.1",
+  "pypdf>=5.4.0",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.3.5",
+  "ruff>=0.11.2",
+]
+
+[project.scripts]
+macro-publisher = "macro_publisher.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/macro_publisher"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = [
+  "B",
+  "E",
+  "F",
+  "I",
+  "N",
+  "UP",
+  "W",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[dependency-groups]
+dev = [
+  "pytest>=8.3.5",
+  "ruff>=0.11.2",
+]

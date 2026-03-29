@@ -1,0 +1,8 @@
+% Change
+Month to Month  Year on Year 12 month Moving
+Average
+2025 December 195.8 1.2 2.1 -0.5
+2026 January 197.0 0.6 2.3 0.0
+February 195.3 -0.9 1.6 0.5
+Source: Prices & Wages Division
+Department of Census & Statistics
