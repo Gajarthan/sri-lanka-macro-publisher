@@ -88,6 +88,35 @@ Pipeline last updated is the most recent successful collection time in the publi
 Source reference date is the economic observation date, which is distinct from pipeline execution time.
 <!-- END: DASHBOARD -->
 
+## Visualizations
+
+These charts are generated from the published history files and kept outside the
+auto-generated dashboard block.
+
+### Exchange Rate Trend
+
+![USD/LKR Trend](docs/readme-assets/fx_trend.png)
+
+### Multi-Currency Comparison
+
+![Multi-Currency](docs/readme-assets/multi_currency.png)
+
+### TT Buy/Sell Spreads
+
+![TT Spreads](docs/readme-assets/tt_spreads.png)
+
+### Inflation Trend
+
+![CCPI Trend](docs/readme-assets/inflation_trend.png)
+
+### Vegetable Price Heatmap
+
+![Vegetable Heatmap](docs/readme-assets/vegetable_heatmap.png)
+
+### Market Comparison
+
+![Market Comparison](docs/readme-assets/market_comparison.png)
+
 ## Local Command
 
 ```bash
