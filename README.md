@@ -1,148 +1,116 @@
 # Sri Lanka Macro Publisher
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026-03-29_09%3A47%3A09_UTC-green)
-![Sources](https://img.shields.io/badge/sources-3_active-blue)
-![Health](https://img.shields.io/badge/health-all_green-brightgreen)
+Static-data publishing pipeline for official Sri Lankan macroeconomic datasets.
+It fetches official public releases, normalizes observations into a canonical
+schema, validates records, and publishes machine-readable JSON and CSV outputs.
 
-## Dashboard Overview
+The dashboard block below is auto-generated from published files under `data/`.
+Refresh it locally with `python scripts/generate_readme_dashboard.py`.
 
-| View | Focus | Key Signals |
-|------|-------|-------------|
-| Overview | Current pipeline state across all official sources | Health badges, latest snapshot, total records |
-| Exchange Rates | LKR performance across major currencies | USD/LKR spot, indicative rates, TT buy/sell spreads |
-| Inflation | Colombo consumer price trend | CCPI level, month-on-month, year-on-year, 12-month average |
-| Commodity Prices | Daily vegetable market movement | Pettah and Dambulla pricing, item heatmap, market comparison |
+<!-- BEGIN: DASHBOARD -->
+## Published Data Dashboard
 
-## About
+_Auto-generated from published data files. Do not edit inside this block manually._
 
-Static-data publishing pipeline for official Sri Lankan macroeconomic datasets. Fetches data from official public sources, normalizes observations into a canonical schema, validates records, and writes machine-readable JSON and CSV outputs into Git-tracked files.
+**Pipeline last updated (UTC):** 2026-03-29 09:24:31 UTC  
+**Total published records:** 29,915
 
-**Data Sources:** CBSL, DCS, DOA (official government publications)
+### Latest Snapshot
 
-**Update Frequency:** CBSL FX every 3 hours on weekdays, DOA daily, DCS CCPI daily
-
-## Latest Snapshot
-
-**Last updated:** 2026-03-29 09:47:09 UTC
-**Total records:** 29,915
-
-| Metric | Value | Reference Date |
-|--------|-------|----------------|
+| Metric | Latest value | Source reference date |
+|--------|--------------|-----------------------|
 | USD/LKR Spot | 314.386 | 2026-03-27 |
 | CCPI Colombo | 195.3 | 2026-02-28 |
-| Median Veg Retail | 160 LKR/kg | 2026-03-27 |
+| Median vegetable retail | 160 LKR/kg | 2026-03-27 |
 
-## Inflation
+### Inflation Summary
 
 | Measure | Value |
 |---------|-------|
-| CCPI Level | 195.3 |
-| Month-on-Month | -0.9% |
-| Year-on-Year | 1.6% |
-| 12-Month Moving Avg | 0.5% |
+| CCPI level | 195.3 |
+| Month-on-month | -0.9% |
+| Year-on-year | 1.6% |
+| 12-month moving average | 0.5% |
+| Source publication date | 2026-02-27 00:00:00 +0530 |
+| Source reference month | 2026-02-28 |
 
-## Charts
+### Source Health
 
-### Exchange Rate Trend
+| Source | Status | Pipeline updated at (UTC) | Source reference date | Records |
+|--------|--------|---------------------------|-----------------------|---------|
+| cbsl_fx | ok | 2026-03-29 09:24:21 UTC | 2026-03-27 | 190 |
+| dcs_ccpi | ok | 2026-03-29 09:24:24 UTC | 2026-02-28 | 1 |
+| doa_vegetable_prices | ok | 2026-03-29 09:24:31 UTC | 2026-03-27 | 29,724 |
 
-![USD/LKR Trend](docs/readme-assets/fx_trend.png)
+### Exchange Rates Sample
 
-### Multi-Currency Comparison
-
-![Multi-Currency](docs/readme-assets/multi_currency.png)
-
-### TT Buy/Sell Spreads
-
-![TT Spreads](docs/readme-assets/tt_spreads.png)
-
-### Inflation Trend
-
-![CCPI Trend](docs/readme-assets/inflation_trend.png)
-
-### Vegetable Price Heatmap
-
-![Vegetable Heatmap](docs/readme-assets/vegetable_heatmap.png)
-
-### Market Comparison
-
-![Market Comparison](docs/readme-assets/market_comparison.png)
-
-## Exchange Rates (USD/LKR Spot)
-
-| Date | Rate |
-|------|------|
+| Date | USD/LKR spot |
+|------|--------------|
 | 2026-03-27 | 314.386 |
 | 2026-03-26 | 313.509 |
 | 2026-03-25 | 314.217 |
 | 2026-03-24 | 312.964 |
 | 2026-03-23 | 311.747 |
-| 2026-03-20 | 311.408 |
-| 2026-03-19 | 311.300 |
-| 2026-03-18 | 311.314 |
-| 2026-03-17 | 311.378 |
-| 2026-03-16 | 311.133 |
 
-## Major Currencies (Indicative Rates)
+### Vegetable Prices Sample
 
-| Currency | LKR Rate | Date |
-|----------|----------|------|
-| USD | 314.39 | 2026-03-27 |
-| EUR | 362.77 | 2026-03-27 |
-| GBP | 419.42 | 2026-03-27 |
-| JPY | 1.97 | 2026-03-27 |
-| AUD | 216.71 | 2026-03-27 |
-| CNY | 45.46 | 2026-03-27 |
+_Source reference date: 2026-03-27_
 
-## Vegetable Prices (Latest)
+| Item | Market | Price type | LKR/kg |
+|------|--------|------------|--------|
+| Beans | Pettah | wholesale | 300 |
+| Brinjal | Pettah | wholesale | 120 |
+| Cabbage | Pettah | wholesale | 100 |
+| Carrot | Pettah | wholesale | 300 |
+| Green Chilli | Pettah | wholesale | 250 |
+| Lime | Pettah | wholesale | 100 |
+| Pumpkin | Pettah | wholesale | 140 |
+| Snake Gourd | Pettah | wholesale | 130 |
 
-*Reference date: 2026-03-27*
+### Dashboard-to-File Mapping
 
-### Pettah Wholesale
+| Dashboard section | Published file inputs |
+|-------------------|-----------------------|
+| Latest snapshot | `data/latest/cbsl_fx.json`, `data/latest/dcs_ccpi.json`, `data/latest/doa_vegetable_prices.json` |
+| Source health | `data/status.json` |
+| Exchange rates sample | `data/history/usd_lkr_spot.csv` |
+| Vegetable prices sample | `data/latest/doa_vegetable_prices.json` and `data/history/doa_vegetable_prices_pettah.csv` |
 
-| Item | Price (LKR/kg) |
-|------|----------------|
-| Beans | 300 |
-| Brinjal | 120 |
-| Cabbage | 100 |
-| Carrot | 300 |
-| Green Chilli | 250 |
-| Lime | 100 |
-| Pumpkin | 140 |
-| Snake Gourd | 130 |
-| Tomato | 70 |
+### Freshness and Cadence
 
-## Source Health
+| Source | Source publication cadence | Pipeline check cadence | Freshness note |
+|--------|----------------------------|------------------------|----------------|
+| cbsl_fx | Business-day official FX rates from CBSL | Every 3 hours on weekdays | Reference date may lag the pipeline update timestamp. |
+| dcs_ccpi | Monthly DCS CCPI release | Daily at 02:30 UTC | Reference date may lag the pipeline update timestamp. |
+| doa_vegetable_prices | Daily DOA market prices | Daily at 01:15 UTC | Reference date may lag the pipeline update timestamp. |
 
-| Source | Status | Reference Date | Records | Last Success |
-|--------|--------|----------------|---------|--------------|
-| cbsl_fx | ok | 2026-03-27 | 190 | 2026-03-29 09:24 UTC |
-| dcs_ccpi | ok | 2026-02-28 | 1 | 2026-03-29 09:24 UTC |
-| doa_vegetable_prices | ok | 2026-03-27 | 29,724 | 2026-03-29 09:24 UTC |
+Pipeline last updated is the most recent successful collection time in the published status files.
+Source reference date is the economic observation date, which is distinct from pipeline execution time.
+<!-- END: DASHBOARD -->
 
-## Dashboard Details
+## Local Command
 
-| Section | Source Files | Text Summary |
-|---------|--------------|--------------|
-| Exchange Rates | `data/history/usd_lkr_spot.csv`, `data/history/*_indicative.csv`, `data/history/*_tt_*.csv` | Tracks spot direction, compares major currencies, and highlights TT spread differences. |
-| Inflation | `data/history/ccpi_colombo.csv` and `data/latest/dcs_ccpi.json` | Summarizes the latest CCPI release with MoM, YoY, and moving-average context. |
-| Commodity Prices | `data/latest/doa_vegetable_prices.json`, `data/history/doa_vegetable_prices_*.csv` | Shows latest market prices, daily movers, and market-to-market differences for key vegetables. |
+```bash
+python scripts/generate_readme_dashboard.py
+```
 
 ## Data Layout
 
 ```text
 data/
-  latest/        Latest snapshot per family (JSON)
-  history/        History CSVs with stable column order
-  normalized/     Canonical JSON Lines snapshots
-  archives/       Timestamped copies of generated data and assets
-  file_history.csv File-level archive manifest with timestamps and hashes
-  status.json     Source health summary
+  latest/           Latest snapshot per family (JSON)
+  history/          History CSVs with stable column order
+  normalized/       Canonical JSON Lines snapshots
+  archives/         Timestamped copies of generated data and assets
+  file_history.csv  File-level archive manifest with timestamps and hashes
+  status.json       Source health summary
 ```
 
 ## Official Sources
 
 - CBSL exchange rates: <https://www.cbsl.gov.lk/en/rates-and-indicators/exchange-rates>
-- DCS Inflation and Prices: <https://www.statistics.gov.lk/InflationAndPrices/StaticalInformation>
+- DCS Inflation and Prices:
+  <https://www.statistics.gov.lk/InflationAndPrices/StaticalInformation>
 - DOA vegetable prices: <https://infohub.doa.gov.lk/vegetable-prices/>
 
 ---
