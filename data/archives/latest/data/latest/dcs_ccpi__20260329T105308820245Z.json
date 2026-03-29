@@ -1,0 +1,44 @@
+{
+  "collected_at": "2026-03-29T10:53:08.820245+00:00",
+  "family_code": "dcs_ccpi",
+  "family_name": "DCS Colombo Consumer Price Index",
+  "metadata": {
+    "note": "Latest release timing is inferred from the CCPI release page, while the index values are parsed from the official DCS movements PDF linked on the same Monthly CCPI section."
+  },
+  "record_count": 1,
+  "records": [
+    {
+      "category": "inflation",
+      "collected_at": "2026-03-29T10:53:08.820245Z",
+      "currency": null,
+      "frequency": "monthly",
+      "indicator_code": "ccpi_colombo",
+      "market_scope": "Colombo district",
+      "metadata": {
+        "history_file": "ccpi_colombo",
+        "latest_group": "dcs_ccpi",
+        "month_on_month_percent": "-0.9",
+        "reference_date_convention": "month_end",
+        "release_code": "20260227",
+        "release_page": "https://www.statistics.gov.lk/InflationAndPrices/StaticalInformation/MonthlyCCPI/CCPI_20260227E",
+        "twelve_month_moving_average_percent": "0.5",
+        "year_on_year_percent": "1.6"
+      },
+      "published_at": "2026-02-27T00:00:00+05:30",
+      "reference_date": "2026-02-28",
+      "series_name": "Colombo Consumer Price Index (CCPI)",
+      "source": "dcs",
+      "source_url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/CCPI/MOVEMENTS_of_CCPI_with_MV_Base2021.pdf",
+      "unit": "index points",
+      "value": 195.3
+    }
+  ],
+  "source": "dcs",
+  "source_name": "dcs_ccpi",
+  "source_urls": [
+    "https://www.statistics.gov.lk/InflationAndPrices/StaticalInformation/MonthlyCCPI",
+    "https://www.statistics.gov.lk/InflationAndPrices/StaticalInformation/MonthlyCCPI/CCPI_20260227E",
+    "https://www.statistics.gov.lk/InflationAndPrices/StaticalInformation/MonthlyCCPI/Movementsofthe_CCPI",
+    "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/CCPI/MOVEMENTS_of_CCPI_with_MV_Base2021.pdf"
+  ]
+}
