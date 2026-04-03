@@ -1,14 +1,14 @@
 # Daily Report
 
-*Generated: 2026-04-03 02:24:52 UTC*
+*Generated: 2026-04-03 04:03:20 UTC*
 
 ## Current Totals
 
-- **29,968** total records across all sources
+- **30,004** total records across all sources
 - **3/3** sources healthy
 - **cbsl_fx**: 171 records (latest: 2026-04-02)
 - **dcs_ccpi**: 1 records (latest: 2026-03-31)
-- **doa_vegetable_prices**: 29,796 records (latest: 2026-03-31)
+- **doa_vegetable_prices**: 29,832 records (latest: 2026-04-02)
 
 ## Pipeline Run History (Last 30 Runs)
 
@@ -43,17 +43,17 @@
 
 | Series | Price | Daily Change |
 |--------|-------|--------------|
-| Green Chilli Wholesale Price - Dambulla Dedicated Economic Centre | 240 | -120 |
-| Green Chilli Retail Price - Dambulla Dedicated Economic Centre | 270 | -120 |
-| Beans Wholesale Price - Dambulla Dedicated Economic Centre | 325 | -90 |
-| Beans Retail Price - Dambulla Dedicated Economic Centre | 355 | -90 |
-| Brinjal Wholesale Price - Dambulla Dedicated Economic Centre | 80 | -55 |
-| Brinjal Retail Price - Dambulla Dedicated Economic Centre | 110 | -55 |
-| Beans Wholesale Price - Pettah market | 350 | +50 |
-| Beans Retail Price - Pettah market | 400 | +50 |
-| Green Chilli Wholesale Price - Pettah market | 300 | +50 |
-| Green Chilli Retail Price - Pettah market | 350 | +50 |
+| Carrot Wholesale Price - Dambulla Dedicated Economic Centre | 335 | +110 |
+| Carrot Retail Price - Dambulla Dedicated Economic Centre | 365 | +110 |
+| Beans Wholesale Price - Pettah market | 250 | -100 |
+| Beans Retail Price - Pettah market | 300 | -100 |
+| Beans Wholesale Price - Dambulla Dedicated Economic Centre | 255 | -70 |
+| Beans Retail Price - Dambulla Dedicated Economic Centre | 285 | -70 |
+| Green Chilli Wholesale Price - Pettah market | 230 | -70 |
+| Green Chilli Retail Price - Pettah market | 280 | -70 |
+| Carrot Wholesale Price - Pettah market | 250 | -50 |
+| Carrot Retail Price - Pettah market | 300 | -50 |
 
 ---
 
-*Report covers data through 2026-04-03 02:24:52 UTC*
+*Report covers data through 2026-04-03 04:03:20 UTC*
