@@ -1,14 +1,14 @@
 # Daily Report
 
-*Generated: 2026-04-07 02:27:38 UTC*
+*Generated: 2026-04-07 04:07:24 UTC*
 
 ## Current Totals
 
-- **29,985** total records across all sources
+- **30,021** total records across all sources
 - **3/3** sources healthy
 - **cbsl_fx**: 152 records (latest: 2026-04-06)
 - **dcs_ccpi**: 1 records (latest: 2026-03-31)
-- **doa_vegetable_prices**: 29,832 records (latest: 2026-04-02)
+- **doa_vegetable_prices**: 29,868 records (latest: 2026-04-06)
 
 ## Pipeline Run History (Last 30 Runs)
 
@@ -43,17 +43,17 @@
 
 | Series | Price | Daily Change |
 |--------|-------|--------------|
-| Carrot Wholesale Price - Dambulla Dedicated Economic Centre | 335 | +110 |
-| Carrot Retail Price - Dambulla Dedicated Economic Centre | 365 | +110 |
-| Beans Wholesale Price - Pettah market | 250 | -100 |
-| Beans Retail Price - Pettah market | 300 | -100 |
-| Beans Wholesale Price - Dambulla Dedicated Economic Centre | 255 | -70 |
-| Beans Retail Price - Dambulla Dedicated Economic Centre | 285 | -70 |
-| Green Chilli Wholesale Price - Pettah market | 230 | -70 |
-| Green Chilli Retail Price - Pettah market | 280 | -70 |
-| Carrot Wholesale Price - Pettah market | 250 | -50 |
-| Carrot Retail Price - Pettah market | 300 | -50 |
+| Carrot Wholesale Price - Dambulla Dedicated Economic Centre | 240 | -95 |
+| Carrot Retail Price - Dambulla Dedicated Economic Centre | 270 | -95 |
+| Beans Wholesale Price - Dambulla Dedicated Economic Centre | 175 | -80 |
+| Beans Retail Price - Dambulla Dedicated Economic Centre | 205 | -80 |
+| Pumpkin Retail Price - Pettah market | 130 | -70 |
+| Pumpkin Wholesale Price - Pettah market | 80 | -60 |
+| Beans Wholesale Price - Pettah market | 200 | -50 |
+| Beans Retail Price - Pettah market | 250 | -50 |
+| Carrot Wholesale Price - Pettah market | 300 | +50 |
+| Carrot Retail Price - Pettah market | 350 | +50 |
 
 ---
 
-*Report covers data through 2026-04-07 02:27:38 UTC*
+*Report covers data through 2026-04-07 04:07:24 UTC*
