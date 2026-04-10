@@ -1,14 +1,14 @@
 # Daily Report
 
-*Generated: 2026-04-10 02:34:23 UTC*
+*Generated: 2026-04-10 04:20:31 UTC*
 
 ## Current Totals
 
-- **30,093** total records across all sources
+- **30,129** total records across all sources
 - **3/3** sources healthy
 - **cbsl_fx**: 152 records (latest: 2026-04-09)
 - **dcs_ccpi**: 1 records (latest: 2026-03-31)
-- **doa_vegetable_prices**: 29,940 records (latest: 2026-04-08)
+- **doa_vegetable_prices**: 29,976 records (latest: 2026-04-09)
 
 ## Pipeline Run History (Last 30 Runs)
 
@@ -43,17 +43,17 @@
 
 | Series | Price | Daily Change |
 |--------|-------|--------------|
-| Carrot Wholesale Price - Pettah market | 200 | -100 |
-| Carrot Retail Price - Pettah market | 250 | -100 |
-| Carrot Wholesale Price - Dambulla Dedicated Economic Centre | 170 | -75 |
-| Carrot Retail Price - Dambulla Dedicated Economic Centre | 200 | -75 |
-| Tomato Wholesale Price - Dambulla Dedicated Economic Centre | 125 | +60 |
-| Tomato Retail Price - Dambulla Dedicated Economic Centre | 155 | +60 |
-| Beans Wholesale Price - Pettah market | 150 | -50 |
-| Beans Retail Price - Pettah market | 200 | -50 |
-| Green Chilli Wholesale Price - Dambulla Dedicated Economic Centre | 200 | -50 |
-| Green Chilli Retail Price - Dambulla Dedicated Economic Centre | 230 | -50 |
+| Lime Wholesale Price - Pettah market | 250 | +120 |
+| Carrot Wholesale Price - Pettah market | 300 | +100 |
+| Carrot Retail Price - Pettah market | 350 | +100 |
+| Beans Wholesale Price - Pettah market | 200 | +50 |
+| Beans Retail Price - Pettah market | 250 | +50 |
+| Green Chilli Wholesale Price - Pettah market | 250 | +50 |
+| Green Chilli Retail Price - Pettah market | 300 | +50 |
+| Snake Gourd Wholesale Price - Dambulla Dedicated Economic Centre | 130 | +40 |
+| Snake Gourd Retail Price - Dambulla Dedicated Economic Centre | 160 | +40 |
+| Brinjal Wholesale Price - Dambulla Dedicated Economic Centre | 160 | +35 |
 
 ---
 
-*Report covers data through 2026-04-10 02:34:23 UTC*
+*Report covers data through 2026-04-10 04:20:31 UTC*
