@@ -12,7 +12,7 @@ Refresh it locally with `python scripts/generate_readme_dashboard.py`.
 
 _Auto-generated from published data files. Do not edit inside this block manually._
 
-**Pipeline last updated (UTC):** 2026-04-11 04:33:33 UTC  
+**Pipeline last updated (UTC):** 2026-04-12 04:21:53 UTC  
 **Total published records:** 30,184
 
 ### Latest Snapshot
@@ -40,7 +40,7 @@ _Auto-generated from published data files. Do not edit inside this block manuall
 |--------|--------|---------------------------|-----------------------|---------|
 | cbsl_fx | ok | 2026-04-10 21:37:45 UTC | 2026-04-10 | 171 |
 | dcs_ccpi | ok | 2026-04-11 04:33:33 UTC | 2026-03-31 | 1 |
-| doa_vegetable_prices | ok | 2026-04-11 03:47:51 UTC | 2026-04-10 | 30,012 |
+| doa_vegetable_prices | ok | 2026-04-12 04:21:52 UTC | 2026-04-10 | 30,012 |
 
 ### Exchange Rates Sample
 
