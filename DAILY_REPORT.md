@@ -1,14 +1,14 @@
 # Daily Report
 
-*Generated: 2026-04-24 21:47:54 UTC*
+*Generated: 2026-04-25 04:09:17 UTC*
 
 ## Current Totals
 
-- **30,292** total records across all sources
+- **30,328** total records across all sources
 - **3/3** sources healthy
 - **cbsl_fx**: 171 records (latest: 2026-04-24)
 - **dcs_ccpi**: 1 records (latest: 2026-03-31)
-- **doa_vegetable_prices**: 30,120 records (latest: 2026-04-23)
+- **doa_vegetable_prices**: 30,156 records (latest: 2026-04-24)
 
 ## Pipeline Run History (Last 30 Runs)
 
@@ -43,17 +43,17 @@
 
 | Series | Price | Daily Change |
 |--------|-------|--------------|
-| Green Chilli Wholesale Price - Pettah market | 150 | -100 |
-| Green Chilli Retail Price - Pettah market | 200 | -100 |
-| Beans Wholesale Price - Pettah market | 350 | -50 |
-| Beans Retail Price - Pettah market | 400 | -50 |
-| Carrot Wholesale Price - Pettah market | 250 | -50 |
-| Carrot Retail Price - Pettah market | 300 | -50 |
-| Brinjal Wholesale Price - Pettah market | 100 | -50 |
-| Brinjal Retail Price - Pettah market | 150 | -50 |
-| Beans Wholesale Price - Dambulla Dedicated Economic Centre | 275 | -35 |
-| Beans Retail Price - Dambulla Dedicated Economic Centre | 305 | -35 |
+| Beans Wholesale Price - Pettah market | 400 | +50 |
+| Beans Retail Price - Pettah market | 450 | +50 |
+| Tomato Wholesale Price - Pettah market | 150 | +50 |
+| Tomato Retail Price - Pettah market | 200 | +50 |
+| Brinjal Wholesale Price - Pettah market | 150 | +50 |
+| Brinjal Retail Price - Pettah market | 200 | +50 |
+| Snake Gourd Wholesale Price - Pettah market | 250 | +50 |
+| Snake Gourd Retail Price - Pettah market | 300 | +50 |
+| Green Chilli Wholesale Price - Pettah market | 100 | -50 |
+| Green Chilli Retail Price - Pettah market | 150 | -50 |
 
 ---
 
-*Report covers data through 2026-04-24 21:47:54 UTC*
+*Report covers data through 2026-04-25 04:09:17 UTC*
