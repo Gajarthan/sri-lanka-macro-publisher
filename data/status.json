@@ -21,13 +21,13 @@
       "source": "dcs_ccpi"
     },
     {
-      "content_hash": "1b133d30206ab948bae39c0040601f58e55de46c1644308cb982cdf9ccfeb33e",
+      "content_hash": "2dc78ee34695eca2617a8ff8829c7edbd51c7a7f2a27f3f3b90ef6e859fb68c9",
       "error": null,
-      "last_attempt_at": "2026-04-27T04:42:15.094134Z",
-      "last_reference_date": "2026-04-24",
-      "last_success_at": "2026-04-27T04:42:15.094134Z",
+      "last_attempt_at": "2026-04-28T04:45:16.152616Z",
+      "last_reference_date": "2026-04-27",
+      "last_success_at": "2026-04-28T04:45:16.152616Z",
       "ok": true,
-      "record_count": 30156,
+      "record_count": 30192,
       "source": "doa_vegetable_prices"
     }
   ]

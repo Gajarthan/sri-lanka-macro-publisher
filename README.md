@@ -12,8 +12,8 @@ Refresh it locally with `python scripts/generate_readme_dashboard.py`.
 
 _Auto-generated from published data files. Do not edit inside this block manually._
 
-**Pipeline last updated (UTC):** 2026-04-28 02:54:17 UTC  
-**Total published records:** 30,335
+**Pipeline last updated (UTC):** 2026-04-28 04:45:16 UTC  
+**Total published records:** 30,371
 
 ### Latest Snapshot
 
@@ -21,7 +21,7 @@ _Auto-generated from published data files. Do not edit inside this block manuall
 |--------|--------------|-----------------------|
 | USD/LKR Spot | 317.917 | 2026-04-28 |
 | CCPI Colombo | 195.8 | 2026-03-31 |
-| Median vegetable retail | 192 LKR/kg | 2026-04-24 |
+| Median vegetable retail | 240 LKR/kg | 2026-04-27 |
 
 ### Inflation Summary
 
@@ -40,7 +40,7 @@ _Auto-generated from published data files. Do not edit inside this block manuall
 |--------|--------|---------------------------|-----------------------|---------|
 | cbsl_fx | ok | 2026-04-28 02:54:17 UTC | 2026-04-28 | 178 |
 | dcs_ccpi | ok | 2026-04-27 05:39:03 UTC | 2026-03-31 | 1 |
-| doa_vegetable_prices | ok | 2026-04-27 04:42:15 UTC | 2026-04-24 | 30,156 |
+| doa_vegetable_prices | ok | 2026-04-28 04:45:16 UTC | 2026-04-27 | 30,192 |
 
 ### Exchange Rates Sample
 
@@ -54,15 +54,15 @@ _Auto-generated from published data files. Do not edit inside this block manuall
 
 ### Vegetable Prices Sample
 
-_Source reference date: 2026-04-24_
+_Source reference date: 2026-04-27_
 
 | Item | Market | Price type | LKR/kg |
 |------|--------|------------|--------|
-| Beans | Pettah | wholesale | 400 |
-| Brinjal | Pettah | wholesale | 150 |
-| Cabbage | Pettah | wholesale | 100 |
-| Carrot | Pettah | wholesale | 250 |
-| Green Chilli | Pettah | wholesale | 100 |
+| Beans | Pettah | wholesale | 450 |
+| Brinjal | Pettah | wholesale | 250 |
+| Cabbage | Pettah | wholesale | 80 |
+| Carrot | Pettah | wholesale | 200 |
+| Green Chilli | Pettah | wholesale | 200 |
 | Lime | Pettah | wholesale | 200 |
 | Pumpkin | Pettah | wholesale | 50 |
 | Snake Gourd | Pettah | wholesale | 250 |
