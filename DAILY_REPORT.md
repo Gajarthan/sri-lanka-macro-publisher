@@ -1,14 +1,14 @@
 # Daily Report
 
-*Generated: 2026-05-08 21:59:05 UTC*
+*Generated: 2026-05-09 04:35:31 UTC*
 
 ## Current Totals
 
-- **30,635** total records across all sources
+- **30,671** total records across all sources
 - **3/3** sources healthy
 - **cbsl_fx**: 190 records (latest: 2026-05-08)
 - **dcs_ccpi**: 1 records (latest: 2026-04-30)
-- **doa_vegetable_prices**: 30,444 records (latest: 2026-05-07)
+- **doa_vegetable_prices**: 30,480 records (latest: 2026-05-08)
 
 ## Pipeline Run History (Last 30 Runs)
 
@@ -43,17 +43,17 @@
 
 | Series | Price | Daily Change |
 |--------|-------|--------------|
-| Brinjal Wholesale Price - Dambulla Dedicated Economic Centre | 365 | +170 |
-| Brinjal Retail Price - Dambulla Dedicated Economic Centre | 395 | +170 |
-| Beans Wholesale Price - Dambulla Dedicated Economic Centre | 525 | +80 |
-| Beans Retail Price - Dambulla Dedicated Economic Centre | 555 | +80 |
-| Beans Wholesale Price - Pettah market | 500 | -50 |
-| Beans Retail Price - Pettah market | 550 | -50 |
-| Tomato Wholesale Price - Pettah market | 250 | +50 |
-| Tomato Retail Price - Pettah market | 300 | +50 |
-| Brinjal Wholesale Price - Pettah market | 300 | -50 |
-| Brinjal Retail Price - Pettah market | 350 | -50 |
+| Brinjal Wholesale Price - Dambulla Dedicated Economic Centre | 275 | -90 |
+| Brinjal Retail Price - Dambulla Dedicated Economic Centre | 305 | -90 |
+| Green Chilli Wholesale Price - Dambulla Dedicated Economic Centre | 150 | +75 |
+| Green Chilli Retail Price - Dambulla Dedicated Economic Centre | 180 | +75 |
+| Pumpkin Wholesale Price - Pettah market | 80 | +30 |
+| Pumpkin Retail Price - Pettah market | 130 | +30 |
+| Beans Wholesale Price - Dambulla Dedicated Economic Centre | 500 | -25 |
+| Beans Retail Price - Dambulla Dedicated Economic Centre | 530 | -25 |
+| Cabbage Wholesale Price - Dambulla Dedicated Economic Centre | 75 | +10 |
+| Cabbage Retail Price - Dambulla Dedicated Economic Centre | 105 | +10 |
 
 ---
 
-*Report covers data through 2026-05-08 21:59:05 UTC*
+*Report covers data through 2026-05-09 04:35:31 UTC*

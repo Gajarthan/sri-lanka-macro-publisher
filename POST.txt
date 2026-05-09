@@ -1,7 +1,7 @@
 [1/5]
-Sri Lanka Macro Data Update - 2026-05-08
+Sri Lanka Macro Data Update - 2026-05-09
 
-30,635 records | 3/3 sources healthy
+30,671 records | 3/3 sources healthy
 
 USD/LKR: 321.632
 CCPI: 201.6 (YoY: 5.4%)
@@ -33,13 +33,13 @@ Source: DCS official CCPI release
 ---
 
 [4/5]
-Vegetable Price Movers - 2026-05-07
+Vegetable Price Movers - 2026-05-08
 
-Brinjal: +170 LKR (up)
-Beans: +80 LKR (up)
-Tomato: +50 LKR (up)
-Lime: +50 LKR (up)
-Cabbage: -40 LKR (down)
+Brinjal: -90 LKR (down)
+Green Chilli: +75 LKR (up)
+Pumpkin: +30 LKR (up)
+Beans: -25 LKR (down)
+Cabbage: +10 LKR (up)
 
 Source: DOA market prices
 
