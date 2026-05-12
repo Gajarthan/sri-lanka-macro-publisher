@@ -12,8 +12,8 @@ Refresh it locally with `python scripts/generate_readme_dashboard.py`.
 
 _Auto-generated from published data files. Do not edit inside this block manually._
 
-**Pipeline last updated (UTC):** 2026-05-12 02:56:58 UTC  
-**Total published records:** 30,659
+**Pipeline last updated (UTC):** 2026-05-12 04:48:52 UTC  
+**Total published records:** 30,695
 
 ### Latest Snapshot
 
@@ -21,7 +21,7 @@ _Auto-generated from published data files. Do not edit inside this block manuall
 |--------|--------------|-----------------------|
 | USD/LKR Spot | 322.028 | 2026-05-12 |
 | CCPI Colombo | 201.6 | 2026-04-30 |
-| Median vegetable retail | 268 LKR/kg | 2026-05-08 |
+| Median vegetable retail | 325 LKR/kg | 2026-05-11 |
 
 ### Inflation Summary
 
@@ -40,7 +40,7 @@ _Auto-generated from published data files. Do not edit inside this block manuall
 |--------|--------|---------------------------|-----------------------|---------|
 | cbsl_fx | ok | 2026-05-12 02:56:58 UTC | 2026-05-12 | 178 |
 | dcs_ccpi | ok | 2026-05-11 06:13:08 UTC | 2026-04-30 | 1 |
-| doa_vegetable_prices | ok | 2026-05-11 05:07:37 UTC | 2026-05-08 | 30,480 |
+| doa_vegetable_prices | ok | 2026-05-12 04:48:52 UTC | 2026-05-11 | 30,516 |
 
 ### Exchange Rates Sample
 
@@ -54,16 +54,16 @@ _Auto-generated from published data files. Do not edit inside this block manuall
 
 ### Vegetable Prices Sample
 
-_Source reference date: 2026-05-08_
+_Source reference date: 2026-05-11_
 
 | Item | Market | Price type | LKR/kg |
 |------|--------|------------|--------|
-| Beans | Pettah | wholesale | 500 |
-| Brinjal | Pettah | wholesale | 300 |
-| Cabbage | Pettah | wholesale | 50 |
+| Beans | Pettah | wholesale | 400 |
+| Brinjal | Pettah | wholesale | 350 |
+| Cabbage | Pettah | wholesale | 70 |
 | Carrot | Pettah | wholesale | 200 |
-| Green Chilli | Pettah | wholesale | 150 |
-| Lime | Pettah | wholesale | 300 |
+| Green Chilli | Pettah | wholesale | 200 |
+| Lime | Pettah | wholesale | 350 |
 | Pumpkin | Pettah | wholesale | 80 |
 | Snake Gourd | Pettah | wholesale | 400 |
 
