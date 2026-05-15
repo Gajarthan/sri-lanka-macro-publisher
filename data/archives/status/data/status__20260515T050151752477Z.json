@@ -1,0 +1,34 @@
+{
+  "sources": [
+    {
+      "content_hash": "ae32f83968e53ca41995057e6f2b627f614b2c72533494c6cb8feacc76d1ce73",
+      "error": null,
+      "last_attempt_at": "2026-05-15T03:30:58.993809Z",
+      "last_reference_date": "2026-05-15",
+      "last_success_at": "2026-05-15T03:30:58.993809Z",
+      "ok": true,
+      "record_count": 178,
+      "source": "cbsl_fx"
+    },
+    {
+      "content_hash": "a1c50324982e8ee1a702b84ce4d12a689a1b762abb69ce4c8b61566b6ad9d61a",
+      "error": null,
+      "last_attempt_at": "2026-05-14T06:02:12.904808Z",
+      "last_reference_date": "2026-04-30",
+      "last_success_at": "2026-05-14T06:02:12.904808Z",
+      "ok": true,
+      "record_count": 1,
+      "source": "dcs_ccpi"
+    },
+    {
+      "content_hash": "b9a31cdbbfd9fa62ab189ea0ac8ca7289ad79553cf32426690f08ddf41dd79bf",
+      "error": null,
+      "last_attempt_at": "2026-05-15T05:01:51.752477Z",
+      "last_reference_date": "2026-05-14",
+      "last_success_at": "2026-05-15T05:01:51.752477Z",
+      "ok": true,
+      "record_count": 30624,
+      "source": "doa_vegetable_prices"
+    }
+  ]
+}

@@ -1,14 +1,14 @@
 # Daily Report
 
-*Generated: 2026-05-15 03:31:07 UTC*
+*Generated: 2026-05-15 05:02:24 UTC*
 
 ## Current Totals
 
-- **30,767** total records across all sources
+- **30,803** total records across all sources
 - **3/3** sources healthy
 - **cbsl_fx**: 178 records (latest: 2026-05-15)
 - **dcs_ccpi**: 1 records (latest: 2026-04-30)
-- **doa_vegetable_prices**: 30,588 records (latest: 2026-05-13)
+- **doa_vegetable_prices**: 30,624 records (latest: 2026-05-14)
 
 ## Pipeline Run History (Last 30 Runs)
 
@@ -43,17 +43,17 @@
 
 | Series | Price | Daily Change |
 |--------|-------|--------------|
-| Beans Wholesale Price - Dambulla Dedicated Economic Centre | 350 | -100 |
-| Beans Retail Price - Dambulla Dedicated Economic Centre | 380 | -100 |
-| Green Chilli Wholesale Price - Pettah market | 150 | -100 |
-| Green Chilli Retail Price - Pettah market | 200 | -100 |
-| Brinjal Wholesale Price - Dambulla Dedicated Economic Centre | 300 | -60 |
-| Brinjal Retail Price - Dambulla Dedicated Economic Centre | 330 | -60 |
-| Snake Gourd Wholesale Price - Dambulla Dedicated Economic Centre | 210 | -55 |
-| Snake Gourd Retail Price - Dambulla Dedicated Economic Centre | 240 | -55 |
-| Beans Wholesale Price - Pettah market | 450 | +50 |
-| Beans Retail Price - Pettah market | 500 | +50 |
+| Tomato Wholesale Price - Pettah market | 500 | +100 |
+| Tomato Retail Price - Pettah market | 550 | +100 |
+| Beans Wholesale Price - Dambulla Dedicated Economic Centre | 400 | +50 |
+| Beans Retail Price - Dambulla Dedicated Economic Centre | 430 | +50 |
+| Snake Gourd Wholesale Price - Pettah market | 450 | +50 |
+| Snake Gourd Retail Price - Pettah market | 500 | +50 |
+| Green Chilli Wholesale Price - Pettah market | 200 | +50 |
+| Green Chilli Retail Price - Pettah market | 250 | +50 |
+| Snake Gourd Wholesale Price - Dambulla Dedicated Economic Centre | 245 | +35 |
+| Snake Gourd Retail Price - Dambulla Dedicated Economic Centre | 275 | +35 |
 
 ---
 
-*Report covers data through 2026-05-15 03:31:07 UTC*
+*Report covers data through 2026-05-15 05:02:24 UTC*
