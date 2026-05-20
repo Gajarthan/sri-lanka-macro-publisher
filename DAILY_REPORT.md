@@ -1,14 +1,14 @@
 # Daily Report
 
-*Generated: 2026-05-20 03:34:50 UTC*
+*Generated: 2026-05-20 05:16:53 UTC*
 
 ## Current Totals
 
-- **30,894** total records across all sources
+- **30,930** total records across all sources
 - **3/3** sources healthy
 - **cbsl_fx**: 197 records (latest: 2026-05-20)
 - **dcs_ccpi**: 1 records (latest: 2026-04-30)
-- **doa_vegetable_prices**: 30,696 records (latest: 2026-05-18)
+- **doa_vegetable_prices**: 30,732 records (latest: 2026-05-19)
 
 ## Pipeline Run History (Last 30 Runs)
 
@@ -43,17 +43,17 @@
 
 | Series | Price | Daily Change |
 |--------|-------|--------------|
-| Beans Wholesale Price - Pettah market | 650 | +200 |
-| Beans Retail Price - Pettah market | 700 | +200 |
-| Tomato Wholesale Price - Pettah market | 320 | -180 |
-| Tomato Retail Price - Pettah market | 380 | -170 |
-| Tomato Wholesale Price - Dambulla Dedicated Economic Centre | 255 | -145 |
-| Tomato Retail Price - Dambulla Dedicated Economic Centre | 285 | -145 |
-| Brinjal Wholesale Price - Pettah market | 450 | +100 |
-| Brinjal Retail Price - Pettah market | 500 | +100 |
-| Green Chilli Wholesale Price - Dambulla Dedicated Economic Centre | 150 | -100 |
-| Green Chilli Retail Price - Dambulla Dedicated Economic Centre | 180 | -100 |
+| Brinjal Wholesale Price - Pettah market | 350 | -100 |
+| Brinjal Retail Price - Pettah market | 400 | -100 |
+| Brinjal Wholesale Price - Dambulla Dedicated Economic Centre | 340 | -85 |
+| Brinjal Retail Price - Dambulla Dedicated Economic Centre | 370 | -85 |
+| Snake Gourd Wholesale Price - Dambulla Dedicated Economic Centre | 325 | +70 |
+| Snake Gourd Retail Price - Dambulla Dedicated Economic Centre | 355 | +70 |
+| Beans Wholesale Price - Pettah market | 600 | -50 |
+| Beans Retail Price - Pettah market | 650 | -50 |
+| Beans Wholesale Price - Dambulla Dedicated Economic Centre | 550 | +50 |
+| Beans Retail Price - Dambulla Dedicated Economic Centre | 580 | +50 |
 
 ---
 
-*Report covers data through 2026-05-20 03:34:50 UTC*
+*Report covers data through 2026-05-20 05:16:53 UTC*
