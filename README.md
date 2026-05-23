@@ -12,8 +12,8 @@ Refresh it locally with `python scripts/generate_readme_dashboard.py`.
 
 _Auto-generated from published data files. Do not edit inside this block manually._
 
-**Pipeline last updated (UTC):** 2026-05-22 22:08:04 UTC  
-**Total published records:** 30,978
+**Pipeline last updated (UTC):** 2026-05-23 04:52:24 UTC  
+**Total published records:** 31,014
 
 ### Latest Snapshot
 
@@ -21,7 +21,7 @@ _Auto-generated from published data files. Do not edit inside this block manuall
 |--------|--------------|-----------------------|
 | USD/LKR Spot | 333.993 | 2026-05-22 |
 | CCPI Colombo | 201.6 | 2026-04-30 |
-| Median vegetable retail | 310 LKR/kg | 2026-05-20 |
+| Median vegetable retail | 328 LKR/kg | 2026-05-22 |
 
 ### Inflation Summary
 
@@ -40,7 +40,7 @@ _Auto-generated from published data files. Do not edit inside this block manuall
 |--------|--------|---------------------------|-----------------------|---------|
 | cbsl_fx | ok | 2026-05-22 22:08:04 UTC | 2026-05-22 | 209 |
 | dcs_ccpi | ok | 2026-05-22 06:31:34 UTC | 2026-04-30 | 1 |
-| doa_vegetable_prices | ok | 2026-05-22 05:13:51 UTC | 2026-05-20 | 30,768 |
+| doa_vegetable_prices | ok | 2026-05-23 04:52:24 UTC | 2026-05-22 | 30,804 |
 
 ### Exchange Rates Sample
 
@@ -54,18 +54,18 @@ _Auto-generated from published data files. Do not edit inside this block manuall
 
 ### Vegetable Prices Sample
 
-_Source reference date: 2026-05-20_
+_Source reference date: 2026-05-22_
 
 | Item | Market | Price type | LKR/kg |
 |------|--------|------------|--------|
-| Beans | Pettah | wholesale | 450 |
-| Brinjal | Pettah | wholesale | 350 |
+| Beans | Pettah | wholesale | 500 |
+| Brinjal | Pettah | wholesale | 400 |
 | Cabbage | Pettah | wholesale | 100 |
-| Carrot | Pettah | wholesale | 220 |
+| Carrot | Pettah | wholesale | 250 |
 | Green Chilli | Pettah | wholesale | 350 |
-| Lime | Pettah | wholesale | 300 |
+| Lime | Pettah | wholesale | 350 |
 | Pumpkin | Pettah | wholesale | 120 |
-| Snake Gourd | Pettah | wholesale | 350 |
+| Snake Gourd | Pettah | wholesale | 300 |
 
 ### Dashboard-to-File Mapping
 
