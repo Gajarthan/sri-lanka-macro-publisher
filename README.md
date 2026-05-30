@@ -12,8 +12,8 @@ Refresh it locally with `python scripts/generate_readme_dashboard.py`.
 
 _Auto-generated from published data files. Do not edit inside this block manually._
 
-**Pipeline last updated (UTC):** 2026-05-29 22:28:36 UTC  
-**Total published records:** 31,103
+**Pipeline last updated (UTC):** 2026-05-30 05:00:49 UTC  
+**Total published records:** 31,139
 
 ### Latest Snapshot
 
@@ -21,7 +21,7 @@ _Auto-generated from published data files. Do not edit inside this block manuall
 |--------|--------------|-----------------------|
 | USD/LKR Spot | 327.820 | 2026-05-29 |
 | CCPI Colombo | 201.6 | 2026-04-30 |
-| Median vegetable retail | 338 LKR/kg | 2026-05-27 |
+| Median vegetable retail | 340 LKR/kg | 2026-05-29 |
 
 ### Inflation Summary
 
@@ -40,7 +40,7 @@ _Auto-generated from published data files. Do not edit inside this block manuall
 |--------|--------|---------------------------|-----------------------|---------|
 | cbsl_fx | ok | 2026-05-29 22:28:36 UTC | 2026-05-29 | 190 |
 | dcs_ccpi | ok | 2026-05-29 06:38:13 UTC | 2026-04-30 | 1 |
-| doa_vegetable_prices | ok | 2026-05-29 05:39:52 UTC | 2026-05-27 | 30,912 |
+| doa_vegetable_prices | ok | 2026-05-30 05:00:49 UTC | 2026-05-29 | 30,948 |
 
 ### Exchange Rates Sample
 
@@ -54,17 +54,17 @@ _Auto-generated from published data files. Do not edit inside this block manuall
 
 ### Vegetable Prices Sample
 
-_Source reference date: 2026-05-27_
+_Source reference date: 2026-05-29_
 
 | Item | Market | Price type | LKR/kg |
 |------|--------|------------|--------|
-| Beans | Pettah | wholesale | 600 |
+| Beans | Pettah | wholesale | 300 |
 | Brinjal | Pettah | wholesale | 400 |
-| Cabbage | Pettah | wholesale | 100 |
+| Cabbage | Pettah | wholesale | 80 |
 | Carrot | Pettah | wholesale | 250 |
-| Green Chilli | Pettah | wholesale | 300 |
+| Green Chilli | Pettah | wholesale | 400 |
 | Lime | Pettah | wholesale | 500 |
-| Pumpkin | Pettah | wholesale | 120 |
+| Pumpkin | Pettah | wholesale | 100 |
 | Snake Gourd | Pettah | wholesale | 300 |
 
 ### Dashboard-to-File Mapping
