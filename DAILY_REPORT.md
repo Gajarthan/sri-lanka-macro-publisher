@@ -1,14 +1,14 @@
 # Daily Report
 
-*Generated: 2026-06-16 04:07:17 UTC*
+*Generated: 2026-06-16 06:44:04 UTC*
 
 ## Current Totals
 
-- **31,146** total records across all sources
+- **31,542** total records across all sources
 - **3/3** sources healthy
 - **cbsl_fx**: 197 records (latest: 2026-06-16)
 - **dcs_ccpi**: 1 records (latest: 2026-05-31)
-- **doa_vegetable_prices**: 30,948 records (latest: 2026-05-29)
+- **doa_vegetable_prices**: 31,344 records (latest: 2026-06-15)
 
 ## Pipeline Run History (Last 30 Runs)
 
@@ -43,17 +43,17 @@
 
 | Series | Price | Daily Change |
 |--------|-------|--------------|
-| Beans Wholesale Price - Pettah market | 300 | -300 |
-| Beans Retail Price - Pettah market | 350 | -300 |
-| Beans Wholesale Price - Dambulla Dedicated Economic Centre | 445 | -105 |
-| Beans Retail Price - Dambulla Dedicated Economic Centre | 475 | -105 |
-| Green Chilli Wholesale Price - Pettah market | 400 | +100 |
-| Green Chilli Retail Price - Pettah market | 450 | +100 |
-| Brinjal Wholesale Price - Dambulla Dedicated Economic Centre | 315 | -70 |
-| Brinjal Retail Price - Dambulla Dedicated Economic Centre | 345 | -70 |
-| Green Chilli Wholesale Price - Dambulla Dedicated Economic Centre | 200 | -50 |
-| Green Chilli Retail Price - Dambulla Dedicated Economic Centre | 230 | -50 |
+| Tomato Wholesale Price - Pettah market | 700 | +200 |
+| Tomato Retail Price - Pettah market | 750 | +200 |
+| Tomato Wholesale Price - Dambulla Dedicated Economic Centre | 625 | +200 |
+| Tomato Retail Price - Dambulla Dedicated Economic Centre | 655 | +200 |
+| Green Chilli Retail Price - Pettah market | 700 | +150 |
+| Lime Retail Price - Pettah market | 700 | +150 |
+| Brinjal Wholesale Price - Dambulla Dedicated Economic Centre | 315 | +115 |
+| Brinjal Retail Price - Dambulla Dedicated Economic Centre | 345 | +115 |
+| Green Chilli Wholesale Price - Pettah market | 600 | +100 |
+| Lime Wholesale Price - Pettah market | 600 | +100 |
 
 ---
 
-*Report covers data through 2026-06-16 04:07:17 UTC*
+*Report covers data through 2026-06-16 06:44:04 UTC*
