@@ -1,14 +1,14 @@
 # Daily Report
 
-*Generated: 2026-06-17 04:08:00 UTC*
+*Generated: 2026-06-17 06:27:51 UTC*
 
 ## Current Totals
 
-- **31,542** total records across all sources
+- **31,578** total records across all sources
 - **3/3** sources healthy
 - **cbsl_fx**: 197 records (latest: 2026-06-17)
 - **dcs_ccpi**: 1 records (latest: 2026-05-31)
-- **doa_vegetable_prices**: 31,344 records (latest: 2026-06-15)
+- **doa_vegetable_prices**: 31,380 records (latest: 2026-06-16)
 
 ## Pipeline Run History (Last 30 Runs)
 
@@ -43,17 +43,17 @@
 
 | Series | Price | Daily Change |
 |--------|-------|--------------|
-| Tomato Wholesale Price - Pettah market | 700 | +200 |
-| Tomato Retail Price - Pettah market | 750 | +200 |
-| Tomato Wholesale Price - Dambulla Dedicated Economic Centre | 625 | +200 |
-| Tomato Retail Price - Dambulla Dedicated Economic Centre | 655 | +200 |
-| Green Chilli Retail Price - Pettah market | 700 | +150 |
-| Lime Retail Price - Pettah market | 700 | +150 |
-| Brinjal Wholesale Price - Dambulla Dedicated Economic Centre | 315 | +115 |
-| Brinjal Retail Price - Dambulla Dedicated Economic Centre | 345 | +115 |
-| Green Chilli Wholesale Price - Pettah market | 600 | +100 |
-| Lime Wholesale Price - Pettah market | 600 | +100 |
+| Brinjal Wholesale Price - Dambulla Dedicated Economic Centre | 140 | -175 |
+| Brinjal Retail Price - Dambulla Dedicated Economic Centre | 170 | -175 |
+| Green Chilli Wholesale Price - Dambulla Dedicated Economic Centre | 450 | -150 |
+| Green Chilli Retail Price - Dambulla Dedicated Economic Centre | 480 | -150 |
+| Lime Wholesale Price - Dambulla Dedicated Economic Centre | 335 | -105 |
+| Lime Retail Price - Dambulla Dedicated Economic Centre | 365 | -105 |
+| Beans Wholesale Price - Pettah market | 550 | +50 |
+| Beans Retail Price - Pettah market | 600 | +50 |
+| Tomato Wholesale Price - Pettah market | 750 | +50 |
+| Tomato Retail Price - Pettah market | 800 | +50 |
 
 ---
 
-*Report covers data through 2026-06-17 04:08:00 UTC*
+*Report covers data through 2026-06-17 06:27:51 UTC*
