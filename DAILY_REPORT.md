@@ -1,14 +1,14 @@
 # Daily Report
 
-*Generated: 2026-06-18 03:58:42 UTC*
+*Generated: 2026-06-18 06:11:23 UTC*
 
 ## Current Totals
 
-- **31,578** total records across all sources
+- **31,614** total records across all sources
 - **3/3** sources healthy
 - **cbsl_fx**: 197 records (latest: 2026-06-18)
 - **dcs_ccpi**: 1 records (latest: 2026-05-31)
-- **doa_vegetable_prices**: 31,380 records (latest: 2026-06-16)
+- **doa_vegetable_prices**: 31,416 records (latest: 2026-06-17)
 
 ## Pipeline Run History (Last 30 Runs)
 
@@ -43,17 +43,17 @@
 
 | Series | Price | Daily Change |
 |--------|-------|--------------|
-| Brinjal Wholesale Price - Dambulla Dedicated Economic Centre | 140 | -175 |
-| Brinjal Retail Price - Dambulla Dedicated Economic Centre | 170 | -175 |
-| Green Chilli Wholesale Price - Dambulla Dedicated Economic Centre | 450 | -150 |
-| Green Chilli Retail Price - Dambulla Dedicated Economic Centre | 480 | -150 |
-| Lime Wholesale Price - Dambulla Dedicated Economic Centre | 335 | -105 |
-| Lime Retail Price - Dambulla Dedicated Economic Centre | 365 | -105 |
-| Beans Wholesale Price - Pettah market | 550 | +50 |
-| Beans Retail Price - Pettah market | 600 | +50 |
-| Tomato Wholesale Price - Pettah market | 750 | +50 |
-| Tomato Retail Price - Pettah market | 800 | +50 |
+| Beans Wholesale Price - Pettah market | 500 | -50 |
+| Beans Retail Price - Pettah market | 550 | -50 |
+| Snake Gourd Wholesale Price - Pettah market | 250 | -50 |
+| Snake Gourd Retail Price - Pettah market | 300 | -50 |
+| Green Chilli Wholesale Price - Pettah market | 700 | +50 |
+| Green Chilli Retail Price - Pettah market | 800 | +50 |
+| Green Chilli Wholesale Price - Dambulla Dedicated Economic Centre | 500 | +50 |
+| Green Chilli Retail Price - Dambulla Dedicated Economic Centre | 530 | +50 |
+| Lime Wholesale Price - Dambulla Dedicated Economic Centre | 385 | +50 |
+| Lime Retail Price - Dambulla Dedicated Economic Centre | 415 | +50 |
 
 ---
 
-*Report covers data through 2026-06-18 03:58:42 UTC*
+*Report covers data through 2026-06-18 06:11:23 UTC*
