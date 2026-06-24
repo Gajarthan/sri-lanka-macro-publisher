@@ -12,8 +12,8 @@ Refresh it locally with `python scripts/generate_readme_dashboard.py`.
 
 _Auto-generated from published data files. Do not edit inside this block manually._
 
-**Pipeline last updated (UTC):** 2026-06-24 03:35:16 UTC  
-**Total published records:** 31,722
+**Pipeline last updated (UTC):** 2026-06-24 05:12:12 UTC  
+**Total published records:** 31,758
 
 ### Latest Snapshot
 
@@ -21,7 +21,7 @@ _Auto-generated from published data files. Do not edit inside this block manuall
 |--------|--------------|-----------------------|
 | USD/LKR Spot | 334.774 | 2026-06-24 |
 | CCPI Colombo | 203.4 | 2026-05-31 |
-| Median vegetable retail | 350 LKR/kg | 2026-06-22 |
+| Median vegetable retail | 325 LKR/kg | 2026-06-23 |
 
 ### Inflation Summary
 
@@ -40,7 +40,7 @@ _Auto-generated from published data files. Do not edit inside this block manuall
 |--------|--------|---------------------------|-----------------------|---------|
 | cbsl_fx | ok | 2026-06-24 03:35:15 UTC | 2026-06-24 | 197 |
 | dcs_ccpi | ok | 2026-06-23 06:32:12 UTC | 2026-05-31 | 1 |
-| doa_vegetable_prices | ok | 2026-06-23 05:15:08 UTC | 2026-06-22 | 31,524 |
+| doa_vegetable_prices | ok | 2026-06-24 05:12:12 UTC | 2026-06-23 | 31,560 |
 
 ### Exchange Rates Sample
 
@@ -54,14 +54,14 @@ _Auto-generated from published data files. Do not edit inside this block manuall
 
 ### Vegetable Prices Sample
 
-_Source reference date: 2026-06-22_
+_Source reference date: 2026-06-23_
 
 | Item | Market | Price type | LKR/kg |
 |------|--------|------------|--------|
-| Beans | Pettah | wholesale | 450 |
+| Beans | Pettah | wholesale | 500 |
 | Brinjal | Pettah | wholesale | 200 |
 | Cabbage | Pettah | wholesale | 100 |
-| Carrot | Pettah | wholesale | 300 |
+| Carrot | Pettah | wholesale | 250 |
 | Green Chilli | Pettah | wholesale | 600 |
 | Lime | Pettah | wholesale | 450 |
 | Pumpkin | Pettah | wholesale | 120 |
