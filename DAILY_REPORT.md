@@ -1,14 +1,14 @@
 # Daily Report
 
-*Generated: 2026-06-25 03:33:23 UTC*
+*Generated: 2026-06-25 05:16:31 UTC*
 
 ## Current Totals
 
-- **31,758** total records across all sources
+- **31,794** total records across all sources
 - **3/3** sources healthy
 - **cbsl_fx**: 197 records (latest: 2026-06-25)
 - **dcs_ccpi**: 1 records (latest: 2026-05-31)
-- **doa_vegetable_prices**: 31,560 records (latest: 2026-06-23)
+- **doa_vegetable_prices**: 31,596 records (latest: 2026-06-24)
 
 ## Pipeline Run History (Last 30 Runs)
 
@@ -43,17 +43,17 @@
 
 | Series | Price | Daily Change |
 |--------|-------|--------------|
-| Lime Wholesale Price - Dambulla Dedicated Economic Centre | 325 | -65 |
-| Lime Retail Price - Dambulla Dedicated Economic Centre | 355 | -65 |
-| Beans Wholesale Price - Pettah market | 500 | +50 |
-| Beans Retail Price - Pettah market | 550 | +50 |
-| Beans Wholesale Price - Dambulla Dedicated Economic Centre | 350 | -50 |
-| Beans Retail Price - Dambulla Dedicated Economic Centre | 380 | -50 |
-| Carrot Wholesale Price - Pettah market | 250 | -50 |
-| Carrot Retail Price - Pettah market | 300 | -50 |
-| Snake Gourd Wholesale Price - Dambulla Dedicated Economic Centre | 180 | -35 |
-| Snake Gourd Retail Price - Dambulla Dedicated Economic Centre | 210 | -35 |
+| Tomato Wholesale Price - Dambulla Dedicated Economic Centre | 450 | -100 |
+| Tomato Retail Price - Dambulla Dedicated Economic Centre | 480 | -100 |
+| Tomato Wholesale Price - Pettah market | 750 | +50 |
+| Tomato Retail Price - Pettah market | 800 | +50 |
+| Green Chilli Retail Price - Pettah market | 650 | -50 |
+| Green Chilli Wholesale Price - Dambulla Dedicated Economic Centre | 625 | +50 |
+| Green Chilli Retail Price - Dambulla Dedicated Economic Centre | 655 | +50 |
+| Lime Wholesale Price - Pettah market | 400 | -50 |
+| Lime Retail Price - Pettah market | 450 | -50 |
+| Lime Wholesale Price - Dambulla Dedicated Economic Centre | 310 | -15 |
 
 ---
 
-*Report covers data through 2026-06-25 03:33:23 UTC*
+*Report covers data through 2026-06-25 05:16:31 UTC*
