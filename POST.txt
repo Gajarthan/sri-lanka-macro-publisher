@@ -1,11 +1,11 @@
 [1/5]
 Sri Lanka Macro Data Update - 2026-06-26
 
-31,794 records | 3/3 sources healthy
+31,830 records | 3/3 sources healthy
 
 USD/LKR: 337.043
 CCPI: 203.4 (YoY: 5.5%)
-Median veg retail: 320 LKR/kg
+Median veg retail: 328 LKR/kg
 
 ---
 
@@ -33,13 +33,13 @@ Source: DCS official CCPI release
 ---
 
 [4/5]
-Vegetable Price Movers - 2026-06-24
+Vegetable Price Movers - 2026-06-25
 
-Tomato: -100 LKR (down)
-Green Chilli: -50 LKR (down)
-Lime: -50 LKR (down)
-Brinjal: -10 LKR (down)
-Snake Gourd: -10 LKR (down)
+Tomato: -250 LKR (down)
+Green Chilli: +150 LKR (up)
+Beans: -100 LKR (down)
+Snake Gourd: +50 LKR (up)
+Cabbage: -40 LKR (down)
 
 Source: DOA market prices
 
