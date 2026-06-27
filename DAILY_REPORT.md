@@ -1,14 +1,14 @@
 # Daily Report
 
-*Generated: 2026-06-26 22:13:11 UTC*
+*Generated: 2026-06-27 05:04:52 UTC*
 
 ## Current Totals
 
-- **31,842** total records across all sources
+- **31,878** total records across all sources
 - **3/3** sources healthy
 - **cbsl_fx**: 209 records (latest: 2026-06-26)
 - **dcs_ccpi**: 1 records (latest: 2026-05-31)
-- **doa_vegetable_prices**: 31,632 records (latest: 2026-06-25)
+- **doa_vegetable_prices**: 31,668 records (latest: 2026-06-26)
 
 ## Pipeline Run History (Last 30 Runs)
 
@@ -43,17 +43,17 @@
 
 | Series | Price | Daily Change |
 |--------|-------|--------------|
-| Tomato Wholesale Price - Pettah market | 500 | -250 |
-| Tomato Retail Price - Pettah market | 600 | -200 |
-| Green Chilli Retail Price - Pettah market | 800 | +150 |
-| Beans Wholesale Price - Pettah market | 400 | -100 |
-| Beans Retail Price - Pettah market | 450 | -100 |
-| Green Chilli Wholesale Price - Pettah market | 700 | +100 |
-| Snake Gourd Wholesale Price - Pettah market | 350 | +50 |
-| Snake Gourd Retail Price - Pettah market | 400 | +50 |
-| Cabbage Wholesale Price - Dambulla Dedicated Economic Centre | 65 | -40 |
-| Cabbage Retail Price - Dambulla Dedicated Economic Centre | 95 | -40 |
+| Tomato Retail Price - Pettah market | 500 | -100 |
+| Carrot Wholesale Price - Dambulla Dedicated Economic Centre | 315 | +70 |
+| Carrot Retail Price - Dambulla Dedicated Economic Centre | 345 | +70 |
+| Snake Gourd Retail Price - Dambulla Dedicated Economic Centre | 155 | -70 |
+| Carrot Wholesale Price - Pettah market | 200 | -50 |
+| Carrot Retail Price - Pettah market | 250 | -50 |
+| Tomato Wholesale Price - Pettah market | 450 | -50 |
+| Snake Gourd Wholesale Price - Dambulla Dedicated Economic Centre | 155 | -40 |
+| Pumpkin Wholesale Price - Dambulla Dedicated Economic Centre | 125 | +37 |
+| Pumpkin Retail Price - Dambulla Dedicated Economic Centre | 155 | +37 |
 
 ---
 
-*Report covers data through 2026-06-26 22:13:11 UTC*
+*Report covers data through 2026-06-27 05:04:52 UTC*
