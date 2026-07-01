@@ -1,6 +1,6 @@
 # Leaderboard
 
-*Generated: 2026-07-01 03:53:43 UTC*
+*Generated: 2026-07-01 05:55:23 UTC*
 
 ## Data Coverage
 
@@ -8,7 +8,7 @@
 |--------|---------|---------------------|-----------|
 | cbsl_fx | 178 | 2026-03-16 to 2026-07-01 | Business daily |
 | dcs_ccpi | 1 | 2026-02-28 to 2026-05-31 | Monthly |
-| doa_vegetable_prices | 31,668 | 2021-10-11 to 2026-06-26 | Daily |
+| doa_vegetable_prices | 31,704 | 2021-10-11 to 2026-06-30 | Daily |
 
 ## Currency Rankings (Biggest Moves)
 
@@ -36,36 +36,36 @@
 
 | # | Item | Avg Daily Move | Max Daily Move |
 |---:|------|---------------|----------------|
-| 1 | Carrot | 60 LKR | 70 LKR |
-| 2 | Tomato | 50 LKR | 100 LKR |
-| 3 | Snake Gourd | 28 LKR | 70 LKR |
-| 4 | Pumpkin | 18 LKR | 37 LKR |
-| 5 | Brinjal | 15 LKR | 30 LKR |
-| 6 | Cabbage | 12 LKR | 25 LKR |
-| 7 | Lime | 2 LKR | 5 LKR |
-| 8 | Beans | 0 LKR | 0 LKR |
-| 9 | Green Chilli | 0 LKR | 0 LKR |
+| 1 | Green Chilli | 180 LKR | 245 LKR |
+| 2 | Snake Gourd | 168 LKR | 245 LKR |
+| 3 | Tomato | 80 LKR | 120 LKR |
+| 4 | Beans | 78 LKR | 125 LKR |
+| 5 | Brinjal | 78 LKR | 120 LKR |
+| 6 | Lime | 62 LKR | 135 LKR |
+| 7 | Cabbage | 48 LKR | 60 LKR |
+| 8 | Carrot | 40 LKR | 95 LKR |
+| 9 | Pumpkin | 15 LKR | 45 LKR |
 
 ## Highest Priced Vegetables (Latest)
 
 | # | Item | Market | Type | Price (LKR/kg) |
 |---:|------|--------|------|----------------|
-| 1 | Green Chilli | Pettah market | retail | 800 |
-| 2 | Green Chilli | Pettah market | wholesale | 700 |
-| 3 | Green Chilli | Dambulla Dedicated Economic Centre | retail | 655 |
-| 4 | Green Chilli | Dambulla Dedicated Economic Centre | wholesale | 625 |
-| 5 | Tomato | Pettah market | retail | 500 |
-| 6 | Tomato | Dambulla Dedicated Economic Centre | retail | 480 |
-| 7 | Beans | Pettah market | retail | 450 |
-| 8 | Tomato | Pettah market | wholesale | 450 |
-| 9 | Tomato | Dambulla Dedicated Economic Centre | wholesale | 450 |
-| 10 | Lime | Pettah market | retail | 450 |
-| 11 | Beans | Pettah market | wholesale | 400 |
-| 12 | Snake Gourd | Pettah market | retail | 400 |
-| 13 | Lime | Pettah market | wholesale | 400 |
-| 14 | Lime | Dambulla Dedicated Economic Centre | retail | 365 |
-| 15 | Beans | Dambulla Dedicated Economic Centre | retail | 355 |
+| 1 | Green Chilli | Dambulla Dedicated Economic Centre | retail | 1000 |
+| 2 | Green Chilli | Pettah market | wholesale | 800 |
+| 3 | Green Chilli | Dambulla Dedicated Economic Centre | wholesale | 800 |
+| 4 | Lime | Dambulla Dedicated Economic Centre | retail | 800 |
+| 5 | Green Chilli | Pettah market | retail | 655 |
+| 6 | Tomato | Dambulla Dedicated Economic Centre | retail | 600 |
+| 7 | Beans | Dambulla Dedicated Economic Centre | retail | 560 |
+| 8 | Snake Gourd | Dambulla Dedicated Economic Centre | retail | 560 |
+| 9 | Brinjal | Dambulla Dedicated Economic Centre | retail | 520 |
+| 10 | Tomato | Pettah market | wholesale | 500 |
+| 11 | Tomato | Dambulla Dedicated Economic Centre | wholesale | 500 |
+| 12 | Tomato | Pettah market | retail | 480 |
+| 13 | Beans | Dambulla Dedicated Economic Centre | wholesale | 450 |
+| 14 | Lime | Dambulla Dedicated Economic Centre | wholesale | 450 |
+| 15 | Carrot | Dambulla Dedicated Economic Centre | retail | 400 |
 
 ---
 
-*Leaderboard generated from full archive through 2026-07-01 03:53:43 UTC*
+*Leaderboard generated from full archive through 2026-07-01 05:55:23 UTC*

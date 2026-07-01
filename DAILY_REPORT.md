@@ -1,14 +1,14 @@
 # Daily Report
 
-*Generated: 2026-07-01 03:53:43 UTC*
+*Generated: 2026-07-01 05:55:23 UTC*
 
 ## Current Totals
 
-- **31,847** total records across all sources
+- **31,883** total records across all sources
 - **3/3** sources healthy
 - **cbsl_fx**: 178 records (latest: 2026-07-01)
 - **dcs_ccpi**: 1 records (latest: 2026-05-31)
-- **doa_vegetable_prices**: 31,668 records (latest: 2026-06-26)
+- **doa_vegetable_prices**: 31,704 records (latest: 2026-06-30)
 
 ## Pipeline Run History (Last 30 Runs)
 
@@ -43,17 +43,17 @@
 
 | Series | Price | Daily Change |
 |--------|-------|--------------|
-| Tomato Retail Price - Pettah market | 500 | -100 |
-| Carrot Wholesale Price - Dambulla Dedicated Economic Centre | 315 | +70 |
-| Carrot Retail Price - Dambulla Dedicated Economic Centre | 345 | +70 |
-| Snake Gourd Retail Price - Dambulla Dedicated Economic Centre | 155 | -70 |
-| Carrot Wholesale Price - Pettah market | 200 | -50 |
-| Carrot Retail Price - Pettah market | 250 | -50 |
-| Tomato Wholesale Price - Pettah market | 450 | -50 |
-| Snake Gourd Wholesale Price - Dambulla Dedicated Economic Centre | 155 | -40 |
-| Pumpkin Wholesale Price - Dambulla Dedicated Economic Centre | 125 | +37 |
-| Pumpkin Retail Price - Dambulla Dedicated Economic Centre | 155 | +37 |
+| Snake Gourd Retail Price - Pettah market | 155 | -245 |
+| Snake Gourd Wholesale Price - Dambulla Dedicated Economic Centre | 400 | +245 |
+| Green Chilli Retail Price - Pettah market | 655 | -245 |
+| Green Chilli Retail Price - Dambulla Dedicated Economic Centre | 1000 | +200 |
+| Snake Gourd Retail Price - Dambulla Dedicated Economic Centre | 560 | +180 |
+| Green Chilli Wholesale Price - Dambulla Dedicated Economic Centre | 800 | +175 |
+| Lime Retail Price - Pettah market | 365 | -135 |
+| Beans Wholesale Price - Dambulla Dedicated Economic Centre | 450 | +125 |
+| Tomato Retail Price - Pettah market | 480 | -120 |
+| Brinjal Retail Price - Dambulla Dedicated Economic Centre | 520 | +120 |
 
 ---
 
-*Report covers data through 2026-07-01 03:53:43 UTC*
+*Report covers data through 2026-07-01 05:55:23 UTC*
