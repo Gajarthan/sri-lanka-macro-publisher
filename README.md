@@ -12,8 +12,8 @@ Refresh it locally with `python scripts/generate_readme_dashboard.py`.
 
 _Auto-generated from published data files. Do not edit inside this block manually._
 
-**Pipeline last updated (UTC):** 2026-07-02 03:34:51 UTC  
-**Total published records:** 31,883
+**Pipeline last updated (UTC):** 2026-07-02 05:10:15 UTC  
+**Total published records:** 31,919
 
 ### Latest Snapshot
 
@@ -21,7 +21,7 @@ _Auto-generated from published data files. Do not edit inside this block manuall
 |--------|--------------|-----------------------|
 | USD/LKR Spot | 336.288 | 2026-07-02 |
 | CCPI Colombo | 207.7 | 2026-06-30 |
-| Median vegetable retail | 382 LKR/kg | 2026-06-30 |
+| Median vegetable retail | 352 LKR/kg | 2026-07-01 |
 
 ### Inflation Summary
 
@@ -40,7 +40,7 @@ _Auto-generated from published data files. Do not edit inside this block manuall
 |--------|--------|---------------------------|-----------------------|---------|
 | cbsl_fx | ok | 2026-07-02 03:34:51 UTC | 2026-07-02 | 178 |
 | dcs_ccpi | ok | 2026-07-01 06:51:32 UTC | 2026-06-30 | 1 |
-| doa_vegetable_prices | ok | 2026-07-01 05:54:51 UTC | 2026-06-30 | 31,704 |
+| doa_vegetable_prices | ok | 2026-07-02 05:10:15 UTC | 2026-07-01 | 31,740 |
 
 ### Exchange Rates Sample
 
@@ -54,18 +54,18 @@ _Auto-generated from published data files. Do not edit inside this block manuall
 
 ### Vegetable Prices Sample
 
-_Source reference date: 2026-06-30_
+_Source reference date: 2026-07-01_
 
 | Item | Market | Price type | LKR/kg |
 |------|--------|------------|--------|
-| Beans | Pettah | wholesale | 300 |
-| Brinjal | Pettah | wholesale | 250 |
-| Cabbage | Pettah | wholesale | 130 |
-| Carrot | Pettah | wholesale | 200 |
-| Green Chilli | Pettah | wholesale | 800 |
+| Beans | Pettah | wholesale | 250 |
+| Brinjal | Pettah | wholesale | 300 |
+| Cabbage | Pettah | wholesale | 100 |
+| Carrot | Pettah | wholesale | 250 |
+| Green Chilli | Pettah | wholesale | 900 |
 | Lime | Pettah | wholesale | 400 |
 | Pumpkin | Pettah | wholesale | 120 |
-| Snake Gourd | Pettah | wholesale | 350 |
+| Snake Gourd | Pettah | wholesale | 300 |
 
 ### Dashboard-to-File Mapping
 
