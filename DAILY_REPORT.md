@@ -1,14 +1,14 @@
 # Daily Report
 
-*Generated: 2026-07-07 03:22:16 UTC*
+*Generated: 2026-07-07 05:09:49 UTC*
 
 ## Current Totals
 
-- **31,991** total records across all sources
+- **32,027** total records across all sources
 - **3/3** sources healthy
 - **cbsl_fx**: 178 records (latest: 2026-07-07)
 - **dcs_ccpi**: 1 records (latest: 2026-06-30)
-- **doa_vegetable_prices**: 31,812 records (latest: 2026-07-03)
+- **doa_vegetable_prices**: 31,848 records (latest: 2026-07-06)
 
 ## Pipeline Run History (Last 30 Runs)
 
@@ -43,17 +43,17 @@
 
 | Series | Price | Daily Change |
 |--------|-------|--------------|
-| Beans Wholesale Price - Dambulla Dedicated Economic Centre | 285 | +110 |
-| Beans Retail Price - Dambulla Dedicated Economic Centre | 315 | +110 |
-| Tomato Wholesale Price - Pettah market | 500 | +100 |
-| Tomato Retail Price - Pettah market | 550 | +100 |
-| Green Chilli Wholesale Price - Dambulla Dedicated Economic Centre | 575 | -75 |
-| Green Chilli Retail Price - Dambulla Dedicated Economic Centre | 605 | -75 |
-| Carrot Wholesale Price - Pettah market | 300 | +50 |
-| Carrot Retail Price - Pettah market | 350 | +50 |
-| Lime Retail Price - Dambulla Dedicated Economic Centre | 355 | -50 |
-| Lime Wholesale Price - Dambulla Dedicated Economic Centre | 350 | -25 |
+| Tomato Wholesale Price - Pettah market | 350 | -150 |
+| Carrot Wholesale Price - Dambulla Dedicated Economic Centre | 170 | -115 |
+| Carrot Retail Price - Dambulla Dedicated Economic Centre | 200 | -115 |
+| Tomato Retail Price - Pettah market | 450 | -100 |
+| Green Chilli Retail Price - Pettah market | 1000 | -100 |
+| Lime Wholesale Price - Dambulla Dedicated Economic Centre | 265 | -85 |
+| Lime Retail Price - Dambulla Dedicated Economic Centre | 295 | -60 |
+| Beans Wholesale Price - Pettah market | 350 | +50 |
+| Beans Retail Price - Pettah market | 400 | +50 |
+| Green Chilli Wholesale Price - Dambulla Dedicated Economic Centre | 525 | -50 |
 
 ---
 
-*Report covers data through 2026-07-07 03:22:16 UTC*
+*Report covers data through 2026-07-07 05:09:49 UTC*
