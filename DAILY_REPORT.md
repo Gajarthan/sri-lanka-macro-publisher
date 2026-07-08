@@ -1,14 +1,14 @@
 # Daily Report
 
-*Generated: 2026-07-08 02:39:47 UTC*
+*Generated: 2026-07-08 04:34:59 UTC*
 
 ## Current Totals
 
-- **32,020** total records across all sources
+- **32,056** total records across all sources
 - **3/3** sources healthy
 - **cbsl_fx**: 171 records (latest: 2026-07-07)
 - **dcs_ccpi**: 1 records (latest: 2026-06-30)
-- **doa_vegetable_prices**: 31,848 records (latest: 2026-07-06)
+- **doa_vegetable_prices**: 31,884 records (latest: 2026-07-07)
 
 ## Pipeline Run History (Last 30 Runs)
 
@@ -43,17 +43,17 @@
 
 | Series | Price | Daily Change |
 |--------|-------|--------------|
-| Tomato Wholesale Price - Pettah market | 350 | -150 |
-| Carrot Wholesale Price - Dambulla Dedicated Economic Centre | 170 | -115 |
-| Carrot Retail Price - Dambulla Dedicated Economic Centre | 200 | -115 |
-| Tomato Retail Price - Pettah market | 450 | -100 |
-| Green Chilli Retail Price - Pettah market | 1000 | -100 |
-| Lime Wholesale Price - Dambulla Dedicated Economic Centre | 265 | -85 |
-| Lime Retail Price - Dambulla Dedicated Economic Centre | 295 | -60 |
-| Beans Wholesale Price - Pettah market | 350 | +50 |
-| Beans Retail Price - Pettah market | 400 | +50 |
-| Green Chilli Wholesale Price - Dambulla Dedicated Economic Centre | 525 | -50 |
+| Green Chilli Wholesale Price - Pettah market | 800 | -150 |
+| Green Chilli Wholesale Price - Dambulla Dedicated Economic Centre | 675 | +150 |
+| Green Chilli Retail Price - Dambulla Dedicated Economic Centre | 705 | +150 |
+| Green Chilli Retail Price - Pettah market | 900 | -100 |
+| Snake Gourd Wholesale Price - Dambulla Dedicated Economic Centre | 120 | -60 |
+| Snake Gourd Retail Price - Dambulla Dedicated Economic Centre | 150 | -60 |
+| Beans Wholesale Price - Pettah market | 400 | +50 |
+| Beans Retail Price - Pettah market | 450 | +50 |
+| Carrot Wholesale Price - Pettah market | 250 | -50 |
+| Carrot Retail Price - Pettah market | 300 | -50 |
 
 ---
 
-*Report covers data through 2026-07-08 02:39:47 UTC*
+*Report covers data through 2026-07-08 04:34:59 UTC*
