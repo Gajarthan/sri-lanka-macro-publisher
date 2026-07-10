@@ -1,14 +1,14 @@
 # Daily Report
 
-*Generated: 2026-07-10 03:18:00 UTC*
+*Generated: 2026-07-10 05:10:32 UTC*
 
 ## Current Totals
 
-- **32,099** total records across all sources
+- **32,135** total records across all sources
 - **3/3** sources healthy
 - **cbsl_fx**: 178 records (latest: 2026-07-10)
 - **dcs_ccpi**: 1 records (latest: 2026-06-30)
-- **doa_vegetable_prices**: 31,920 records (latest: 2026-07-08)
+- **doa_vegetable_prices**: 31,956 records (latest: 2026-07-09)
 
 ## Pipeline Run History (Last 30 Runs)
 
@@ -43,17 +43,17 @@
 
 | Series | Price | Daily Change |
 |--------|-------|--------------|
-| Beans Wholesale Price - Dambulla Dedicated Economic Centre | 325 | +100 |
-| Beans Retail Price - Dambulla Dedicated Economic Centre | 355 | +100 |
-| Brinjal Wholesale Price - Dambulla Dedicated Economic Centre | 340 | +100 |
-| Brinjal Retail Price - Dambulla Dedicated Economic Centre | 370 | +100 |
-| Carrot Wholesale Price - Dambulla Dedicated Economic Centre | 235 | +65 |
-| Carrot Retail Price - Dambulla Dedicated Economic Centre | 265 | +65 |
-| Carrot Wholesale Price - Pettah market | 300 | +50 |
-| Carrot Retail Price - Pettah market | 350 | +50 |
-| Green Chilli Wholesale Price - Dambulla Dedicated Economic Centre | 725 | +50 |
-| Green Chilli Retail Price - Dambulla Dedicated Economic Centre | 755 | +50 |
+| Beans Wholesale Price - Dambulla Dedicated Economic Centre | 225 | -100 |
+| Beans Retail Price - Dambulla Dedicated Economic Centre | 255 | -100 |
+| Green Chilli Retail Price - Pettah market | 800 | -100 |
+| Green Chilli Wholesale Price - Dambulla Dedicated Economic Centre | 825 | +100 |
+| Green Chilli Retail Price - Dambulla Dedicated Economic Centre | 855 | +100 |
+| Tomato Wholesale Price - Pettah market | 400 | +50 |
+| Green Chilli Wholesale Price - Pettah market | 750 | -50 |
+| Brinjal Wholesale Price - Dambulla Dedicated Economic Centre | 300 | -40 |
+| Brinjal Retail Price - Dambulla Dedicated Economic Centre | 330 | -40 |
+| Lime Wholesale Price - Dambulla Dedicated Economic Centre | 190 | -35 |
 
 ---
 
-*Report covers data through 2026-07-10 03:18:00 UTC*
+*Report covers data through 2026-07-10 05:10:32 UTC*
