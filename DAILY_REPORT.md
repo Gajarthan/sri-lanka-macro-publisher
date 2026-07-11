@@ -1,14 +1,14 @@
 # Daily Report
 
-*Generated: 2026-07-10 22:02:39 UTC*
+*Generated: 2026-07-11 04:31:23 UTC*
 
 ## Current Totals
 
-- **32,147** total records across all sources
+- **32,183** total records across all sources
 - **3/3** sources healthy
 - **cbsl_fx**: 190 records (latest: 2026-07-10)
 - **dcs_ccpi**: 1 records (latest: 2026-06-30)
-- **doa_vegetable_prices**: 31,956 records (latest: 2026-07-09)
+- **doa_vegetable_prices**: 31,992 records (latest: 2026-07-10)
 
 ## Pipeline Run History (Last 30 Runs)
 
@@ -43,17 +43,17 @@
 
 | Series | Price | Daily Change |
 |--------|-------|--------------|
-| Beans Wholesale Price - Dambulla Dedicated Economic Centre | 225 | -100 |
-| Beans Retail Price - Dambulla Dedicated Economic Centre | 255 | -100 |
-| Green Chilli Retail Price - Pettah market | 800 | -100 |
-| Green Chilli Wholesale Price - Dambulla Dedicated Economic Centre | 825 | +100 |
-| Green Chilli Retail Price - Dambulla Dedicated Economic Centre | 855 | +100 |
-| Tomato Wholesale Price - Pettah market | 400 | +50 |
-| Green Chilli Wholesale Price - Pettah market | 750 | -50 |
-| Brinjal Wholesale Price - Dambulla Dedicated Economic Centre | 300 | -40 |
-| Brinjal Retail Price - Dambulla Dedicated Economic Centre | 330 | -40 |
-| Lime Wholesale Price - Dambulla Dedicated Economic Centre | 190 | -35 |
+| Green Chilli Wholesale Price - Dambulla Dedicated Economic Centre | 975 | +150 |
+| Green Chilli Retail Price - Dambulla Dedicated Economic Centre | 1005 | +150 |
+| Beans Wholesale Price - Pettah market | 450 | +50 |
+| Beans Retail Price - Pettah market | 500 | +50 |
+| Carrot Wholesale Price - Dambulla Dedicated Economic Centre | 210 | -50 |
+| Carrot Retail Price - Dambulla Dedicated Economic Centre | 240 | -50 |
+| Tomato Wholesale Price - Pettah market | 450 | +50 |
+| Tomato Retail Price - Pettah market | 500 | +50 |
+| Pumpkin Wholesale Price - Dambulla Dedicated Economic Centre | 145 | +20 |
+| Pumpkin Retail Price - Dambulla Dedicated Economic Centre | 175 | +20 |
 
 ---
 
-*Report covers data through 2026-07-10 22:02:39 UTC*
+*Report covers data through 2026-07-11 04:31:23 UTC*
