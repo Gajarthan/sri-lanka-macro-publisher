@@ -1,0 +1,55 @@
+[1/5]
+Sri Lanka Macro Data Update - 2026-08-05
+
+32,164 records | 3/3 sources healthy
+
+USD/LKR: 335.717
+CCPI: 208.2 (YoY: 7.3%)
+Median veg retail: 312 LKR/kg
+
+---
+
+[2/5]
+Exchange Rates (LKR)
+
+USD: 335.72
+EUR: 386.38
+GBP: 450.80
+
+Source: CBSL official rates (2026-08-04)
+
+---
+
+[3/5]
+Inflation Update - 2026-07-31
+
+CCPI Colombo: 208.2 index points
+MoM: 0.2%
+YoY: 7.3%
+12M MA: 3.3%
+
+Source: DCS official CCPI release
+
+---
+
+[4/5]
+Vegetable Price Movers - 2026-07-10
+
+Green Chilli: +150 LKR (up)
+Beans: +50 LKR (up)
+Carrot: -50 LKR (down)
+Tomato: +50 LKR (up)
+Pumpkin: +20 LKR (up)
+
+Source: DOA market prices
+
+---
+
+[5/5]
+Data from official Sri Lankan sources:
+- CBSL exchange rates
+- DCS Consumer Price Index
+- DOA vegetable market prices
+
+All data is open, machine-readable, and Git-tracked.
+github.com/your-org/sri-lanka-macro-publisher
